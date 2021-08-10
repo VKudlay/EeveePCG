@@ -1,12 +1,11 @@
 # **Starter Project:** Generating Eeveelution Point Clouds With Point Set Generation Network
-## Repo By Vadim Kudlay 
+### Repo By Vadim Kudlay 
 
 ![eeveelution pics](objs/eevee_pic.png)
 
+A full tour of the results and thought process behind the implementation can be found in [`Eeveelutions.ipynb`](Eeveelutions.ipynb) and its associated [html export](index.html).
+
 This is a brief implementation of a point set generation network to attempt to generate different eeveelutions (i.e. the Pokémon evolutions). Specifically, the network is trained to map from an origin point cloud to a destination point cloud based on a 'transformation vector' which specifies which class the cloud should progress towards. The implementation largely utilizes an basic autoencoder architecture quite similar to [the one mentioned in the main reference paper](https://arxiv.org/abs/1707.02392).
-
-
-A full tour of the results and thought process behind the implementation can be found in [`Eeveelutions.ipynb`](Eeveelutions.ipynb) and its associated [html export](Eeveelutions.html).
 
 ---
 
