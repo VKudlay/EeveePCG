@@ -1,0 +1,5584 @@
+ > 00:45:20 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 0, Step 0
+
+  Epoch 0, Step 0
+ > 00:45:20 | Getting predictions from model
+
+  Epoch 0, Step 1
+ > 00:45:23 | Getting predictions from model
+
+  Epoch 0, Step 2
+ > 00:45:24 | Getting predictions from model
+
+  Epoch 0, Step 3
+ > 00:45:26 | Getting predictions from model
+
+  Epoch 0, Step 4
+ > 00:45:27 | Getting predictions from model
+
+  Epoch 0, Step 5
+ > 00:45:28 | Getting predictions from model
+
+  Epoch 0, Step 6
+ > 00:45:29 | Getting predictions from model
+
+  Epoch 0, Step 7
+ > 00:45:30 | Getting predictions from model
+
+  Epoch 0, Step 8
+ > 00:45:31 | Getting predictions from model
+
+  Epoch 0, Step 9
+ > 00:45:32 | Getting predictions from model
+
+  Epoch 0, Step 10
+ > 00:45:33 | Getting predictions from model
+
+  Epoch 0, Step 11
+ > 00:45:34 | Getting predictions from model
+
+  Epoch 0, Step 12
+ > 00:45:35 | Getting predictions from model
+
+  Epoch 0, Step 13
+ > 00:45:35 | Getting predictions from model
+
+  Epoch 0, Step 14
+ > 00:45:36 | Getting predictions from model
+
+  Epoch 0, Step 15
+ > 00:45:37 | Getting predictions from model
+
+  Epoch 0, Step 16
+ > 00:45:38 | Getting predictions from model
+
+  Epoch 0, Step 17
+ > 00:45:39 | Getting predictions from model
+
+  Epoch 0, Step 18
+ > 00:45:40 | Getting predictions from model
+
+  Epoch 0, Step 19
+ > 00:45:41 | Getting predictions from model
+
+  Epoch 0, Step 20
+ > 00:45:42 | Getting predictions from model
+
+  Epoch 0, Step 21
+ > 00:45:43 | Getting predictions from model
+
+  Epoch 0, Step 22
+ > 00:45:44 | Getting predictions from model
+
+  Epoch 0, Step 23
+ > 00:45:45 | Getting predictions from model
+
+  Epoch 0, Step 24
+ > 00:45:46 | Getting predictions from model
+
+  Epoch 0, Step 25
+ > 00:45:47 | Getting predictions from model
+
+  Epoch 0, Step 26
+ > 00:45:48 | Getting predictions from model
+
+  Epoch 0, Step 27
+ > 00:45:49 | Getting predictions from model
+
+  Epoch 0, Step 28
+ > 00:45:49 | Getting predictions from model
+
+  Epoch 0, Step 29
+ > 00:45:50 | Getting predictions from model
+ > 00:45:51 | mean loss = 5.39591360	( CMF : 5.3959 )
+ > 00:45:51 | Starting Visualizations
+ > 00:46:09 |  - Finished
+
+
+  Epoch 1, Step 0
+
+  Epoch 1, Step 0
+ > 00:46:10 | Getting predictions from model
+
+  Epoch 1, Step 1
+ > 00:46:12 | Getting predictions from model
+
+  Epoch 1, Step 2
+ > 00:46:13 | Getting predictions from model
+
+  Epoch 1, Step 3
+ > 00:46:14 | Getting predictions from model
+
+  Epoch 1, Step 4
+ > 00:46:15 | Getting predictions from model
+
+  Epoch 1, Step 5
+ > 00:46:16 | Getting predictions from model
+
+  Epoch 1, Step 6
+ > 00:46:17 | Getting predictions from model
+
+  Epoch 1, Step 7
+ > 00:46:19 | Getting predictions from model
+
+  Epoch 1, Step 8
+ > 00:46:20 | Getting predictions from model
+
+  Epoch 1, Step 9
+ > 00:46:21 | Getting predictions from model
+
+  Epoch 1, Step 10
+ > 00:46:22 | Getting predictions from model
+
+  Epoch 1, Step 11
+ > 00:46:23 | Getting predictions from model
+
+  Epoch 1, Step 12
+ > 00:46:24 | Getting predictions from model
+
+  Epoch 1, Step 13
+ > 00:46:24 | Getting predictions from model
+
+  Epoch 1, Step 14
+ > 00:46:25 | Getting predictions from model
+
+  Epoch 1, Step 15
+ > 00:46:26 | Getting predictions from model
+
+  Epoch 1, Step 16
+ > 00:46:27 | Getting predictions from model
+
+  Epoch 1, Step 17
+ > 00:46:28 | Getting predictions from model
+
+  Epoch 1, Step 18
+ > 00:46:29 | Getting predictions from model
+
+  Epoch 1, Step 19
+ > 00:46:30 | Getting predictions from model
+
+  Epoch 1, Step 20
+ > 00:46:31 | Getting predictions from model
+
+  Epoch 1, Step 21
+ > 00:46:32 | Getting predictions from model
+
+  Epoch 1, Step 22
+ > 00:46:33 | Getting predictions from model
+
+  Epoch 1, Step 23
+ > 00:46:34 | Getting predictions from model
+
+  Epoch 1, Step 24
+ > 00:46:35 | Getting predictions from model
+
+  Epoch 1, Step 25
+ > 00:46:36 | Getting predictions from model
+
+  Epoch 1, Step 26
+ > 00:46:36 | Getting predictions from model
+
+  Epoch 1, Step 27
+ > 00:46:37 | Getting predictions from model
+
+  Epoch 1, Step 28
+ > 00:46:38 | Getting predictions from model
+
+  Epoch 1, Step 29
+ > 00:46:39 | Getting predictions from model
+ > 00:46:40 | mean loss = 3.64084125	( CMF : 3.6408 )
+ > 00:46:40 | Starting Visualizations
+ > 00:46:40 |  - Finished
+
+
+  Epoch 2, Step 0
+
+  Epoch 2, Step 0
+ > 00:46:41 | Getting predictions from model
+
+  Epoch 2, Step 1
+ > 00:46:42 | Getting predictions from model
+
+  Epoch 2, Step 2
+ > 00:46:43 | Getting predictions from model
+
+  Epoch 2, Step 3
+ > 00:46:45 | Getting predictions from model
+
+  Epoch 2, Step 4
+ > 00:46:46 | Getting predictions from model
+
+  Epoch 2, Step 5
+ > 00:46:47 | Getting predictions from model
+
+  Epoch 2, Step 6
+ > 00:46:48 | Getting predictions from model
+
+  Epoch 2, Step 7
+ > 00:46:49 | Getting predictions from model
+
+  Epoch 2, Step 8
+ > 00:46:51 | Getting predictions from model
+
+  Epoch 2, Step 9
+ > 00:46:52 | Getting predictions from model
+
+  Epoch 2, Step 10
+ > 00:46:53 | Getting predictions from model
+
+  Epoch 2, Step 11
+ > 00:46:53 | Getting predictions from model
+
+  Epoch 2, Step 12
+ > 00:46:54 | Getting predictions from model
+
+  Epoch 2, Step 13
+ > 00:46:55 | Getting predictions from model
+
+  Epoch 2, Step 14
+ > 00:46:56 | Getting predictions from model
+
+  Epoch 2, Step 15
+ > 00:46:57 | Getting predictions from model
+
+  Epoch 2, Step 16
+ > 00:46:58 | Getting predictions from model
+
+  Epoch 2, Step 17
+ > 00:46:59 | Getting predictions from model
+
+  Epoch 2, Step 18
+ > 00:47:00 | Getting predictions from model
+
+  Epoch 2, Step 19
+ > 00:47:01 | Getting predictions from model
+
+  Epoch 2, Step 20
+ > 00:47:02 | Getting predictions from model
+
+  Epoch 2, Step 21
+ > 00:47:03 | Getting predictions from model
+
+  Epoch 2, Step 22
+ > 00:47:04 | Getting predictions from model
+
+  Epoch 2, Step 23
+ > 00:47:05 | Getting predictions from model
+
+  Epoch 2, Step 24
+ > 00:47:06 | Getting predictions from model
+
+  Epoch 2, Step 25
+ > 00:47:07 | Getting predictions from model
+
+  Epoch 2, Step 26
+ > 00:47:08 | Getting predictions from model
+
+  Epoch 2, Step 27
+ > 00:47:09 | Getting predictions from model
+
+  Epoch 2, Step 28
+ > 00:47:10 | Getting predictions from model
+
+  Epoch 2, Step 29
+ > 00:47:11 | Getting predictions from model
+ > 00:47:12 | mean loss = 3.38006091	( CMF : 3.3801 )
+ > 00:47:12 | Starting Visualizations
+ > 00:47:12 |  - Finished
+
+
+  Epoch 3, Step 0
+
+  Epoch 3, Step 0
+ > 00:47:13 | Getting predictions from model
+
+  Epoch 3, Step 1
+ > 00:47:15 | Getting predictions from model
+
+  Epoch 3, Step 2
+ > 00:47:16 | Getting predictions from model
+
+  Epoch 3, Step 3
+ > 00:47:17 | Getting predictions from model
+
+  Epoch 3, Step 4
+ > 00:47:18 | Getting predictions from model
+
+  Epoch 3, Step 5
+ > 00:47:19 | Getting predictions from model
+
+  Epoch 3, Step 6
+ > 00:47:20 | Getting predictions from model
+
+  Epoch 3, Step 7
+ > 00:47:21 | Getting predictions from model
+
+  Epoch 3, Step 8
+ > 00:47:22 | Getting predictions from model
+
+  Epoch 3, Step 9
+ > 00:47:23 | Getting predictions from model
+
+  Epoch 3, Step 10
+ > 00:47:24 | Getting predictions from model
+
+  Epoch 3, Step 11
+ > 00:47:25 | Getting predictions from model
+
+  Epoch 3, Step 12
+ > 00:47:26 | Getting predictions from model
+
+  Epoch 3, Step 13
+ > 00:47:27 | Getting predictions from model
+
+  Epoch 3, Step 14
+ > 00:47:28 | Getting predictions from model
+
+  Epoch 3, Step 15
+ > 00:47:29 | Getting predictions from model
+
+  Epoch 3, Step 16
+ > 00:47:30 | Getting predictions from model
+
+  Epoch 3, Step 17
+ > 00:47:31 | Getting predictions from model
+
+  Epoch 3, Step 18
+ > 00:47:32 | Getting predictions from model
+
+  Epoch 3, Step 19
+ > 00:47:33 | Getting predictions from model
+
+  Epoch 3, Step 20
+ > 00:47:34 | Getting predictions from model
+
+  Epoch 3, Step 21
+ > 00:47:35 | Getting predictions from model
+
+  Epoch 3, Step 22
+ > 00:47:35 | Getting predictions from model
+
+  Epoch 3, Step 23
+ > 00:47:36 | Getting predictions from model
+
+  Epoch 3, Step 24
+ > 00:47:37 | Getting predictions from model
+
+  Epoch 3, Step 25
+ > 00:47:38 | Getting predictions from model
+
+  Epoch 3, Step 26
+ > 00:47:39 | Getting predictions from model
+
+  Epoch 3, Step 27
+ > 00:47:40 | Getting predictions from model
+
+  Epoch 3, Step 28
+ > 00:47:41 | Getting predictions from model
+
+  Epoch 3, Step 29
+ > 00:47:42 | Getting predictions from model
+ > 00:47:43 | mean loss = 3.21671915	( CMF : 3.2167 )
+ > 00:47:43 | Starting Visualizations
+ > 00:47:43 |  - Finished
+
+
+  Epoch 4, Step 0
+
+  Epoch 4, Step 0
+ > 00:47:44 | Getting predictions from model
+
+  Epoch 4, Step 1
+ > 00:47:45 | Getting predictions from model
+
+  Epoch 4, Step 2
+ > 00:47:46 | Getting predictions from model
+
+  Epoch 4, Step 3
+ > 00:47:47 | Getting predictions from model
+
+  Epoch 4, Step 4
+ > 00:47:48 | Getting predictions from model
+
+  Epoch 4, Step 5
+ > 00:47:49 | Getting predictions from model
+
+  Epoch 4, Step 6
+ > 00:47:50 | Getting predictions from model
+
+  Epoch 4, Step 7
+ > 00:47:51 | Getting predictions from model
+
+  Epoch 4, Step 8
+ > 00:47:52 | Getting predictions from model
+
+  Epoch 4, Step 9
+ > 00:47:53 | Getting predictions from model
+
+  Epoch 4, Step 10
+ > 00:47:54 | Getting predictions from model
+
+  Epoch 4, Step 11
+ > 00:47:55 | Getting predictions from model
+
+  Epoch 4, Step 12
+ > 00:47:56 | Getting predictions from model
+
+  Epoch 4, Step 13
+ > 00:47:57 | Getting predictions from model
+
+  Epoch 4, Step 14
+ > 00:47:58 | Getting predictions from model
+
+  Epoch 4, Step 15
+ > 00:47:59 | Getting predictions from model
+
+  Epoch 4, Step 16
+ > 00:48:00 | Getting predictions from model
+
+  Epoch 4, Step 17
+ > 00:48:01 | Getting predictions from model
+
+  Epoch 4, Step 18
+ > 00:48:02 | Getting predictions from model
+
+  Epoch 4, Step 19
+ > 00:48:02 | Getting predictions from model
+
+  Epoch 4, Step 20
+ > 00:48:03 | Getting predictions from model
+
+  Epoch 4, Step 21
+ > 00:48:04 | Getting predictions from model
+
+  Epoch 4, Step 22
+ > 00:48:05 | Getting predictions from model
+
+  Epoch 4, Step 23
+ > 00:48:06 | Getting predictions from model
+
+  Epoch 4, Step 24
+ > 00:48:07 | Getting predictions from model
+
+  Epoch 4, Step 25
+ > 00:48:08 | Getting predictions from model
+
+  Epoch 4, Step 26
+ > 00:48:09 | Getting predictions from model
+
+  Epoch 4, Step 27
+ > 00:48:10 | Getting predictions from model
+
+  Epoch 4, Step 28
+ > 00:48:11 | Getting predictions from model
+
+  Epoch 4, Step 29
+ > 00:48:12 | Getting predictions from model
+ > 00:48:13 | mean loss = 3.08292985	( CMF : 3.0829 )
+ > 00:48:13 | Starting Visualizations
+ > 00:48:13 |  - Finished
+
+
+  Epoch 5, Step 0
+
+  Epoch 5, Step 0
+ > 00:48:14 | Getting predictions from model
+
+  Epoch 5, Step 1
+ > 00:48:15 | Getting predictions from model
+
+  Epoch 5, Step 2
+ > 00:48:16 | Getting predictions from model
+
+  Epoch 5, Step 3
+ > 00:48:17 | Getting predictions from model
+
+  Epoch 5, Step 4
+ > 00:48:18 | Getting predictions from model
+
+  Epoch 5, Step 5
+ > 00:48:20 | Getting predictions from model
+
+  Epoch 5, Step 6
+ > 00:48:21 | Getting predictions from model
+
+  Epoch 5, Step 7
+ > 00:48:22 | Getting predictions from model
+
+  Epoch 5, Step 8
+ > 00:48:23 | Getting predictions from model
+
+  Epoch 5, Step 9
+ > 00:48:24 | Getting predictions from model
+
+  Epoch 5, Step 10
+ > 00:48:24 | Getting predictions from model
+
+  Epoch 5, Step 11
+ > 00:48:25 | Getting predictions from model
+
+  Epoch 5, Step 12
+ > 00:48:26 | Getting predictions from model
+
+  Epoch 5, Step 13
+ > 00:48:27 | Getting predictions from model
+
+  Epoch 5, Step 14
+ > 00:48:28 | Getting predictions from model
+
+  Epoch 5, Step 15
+ > 00:48:29 | Getting predictions from model
+
+  Epoch 5, Step 16
+ > 00:48:30 | Getting predictions from model
+
+  Epoch 5, Step 17
+ > 00:48:31 | Getting predictions from model
+
+  Epoch 5, Step 18
+ > 00:48:32 | Getting predictions from model
+
+  Epoch 5, Step 19
+ > 00:48:33 | Getting predictions from model
+
+  Epoch 5, Step 20
+ > 00:48:34 | Getting predictions from model
+
+  Epoch 5, Step 21
+ > 00:48:35 | Getting predictions from model
+
+  Epoch 5, Step 22
+ > 00:48:36 | Getting predictions from model
+
+  Epoch 5, Step 23
+ > 00:48:37 | Getting predictions from model
+
+  Epoch 5, Step 24
+ > 00:48:38 | Getting predictions from model
+
+  Epoch 5, Step 25
+ > 00:48:39 | Getting predictions from model
+
+  Epoch 5, Step 26
+ > 00:48:40 | Getting predictions from model
+
+  Epoch 5, Step 27
+ > 00:48:41 | Getting predictions from model
+
+  Epoch 5, Step 28
+ > 00:48:42 | Getting predictions from model
+
+  Epoch 5, Step 29
+ > 00:48:43 | Getting predictions from model
+ > 00:48:43 | mean loss = 3.14617252	( CMF : 3.1462 )
+ > 00:48:43 | Starting Visualizations
+ > 00:49:00 |  - Finished
+
+
+  Epoch 6, Step 0
+
+  Epoch 6, Step 0
+ > 00:49:02 | Getting predictions from model
+
+  Epoch 6, Step 1
+ > 00:49:03 | Getting predictions from model
+
+  Epoch 6, Step 2
+ > 00:49:04 | Getting predictions from model
+
+  Epoch 6, Step 3
+ > 00:49:05 | Getting predictions from model
+
+  Epoch 6, Step 4
+ > 00:49:06 | Getting predictions from model
+
+  Epoch 6, Step 5
+ > 00:49:08 | Getting predictions from model
+
+  Epoch 6, Step 6
+ > 00:49:09 | Getting predictions from model
+
+  Epoch 6, Step 7
+ > 00:49:10 | Getting predictions from model
+
+  Epoch 6, Step 8
+ > 00:49:11 | Getting predictions from model
+
+  Epoch 6, Step 9
+ > 00:49:12 | Getting predictions from model
+
+  Epoch 6, Step 10
+ > 00:49:13 | Getting predictions from model
+
+  Epoch 6, Step 11
+ > 00:49:14 | Getting predictions from model
+
+  Epoch 6, Step 12
+ > 00:49:15 | Getting predictions from model
+
+  Epoch 6, Step 13
+ > 00:49:16 | Getting predictions from model
+
+  Epoch 6, Step 14
+ > 00:49:17 | Getting predictions from model
+
+  Epoch 6, Step 15
+ > 00:49:18 | Getting predictions from model
+
+  Epoch 6, Step 16
+ > 00:49:19 | Getting predictions from model
+
+  Epoch 6, Step 17
+ > 00:49:20 | Getting predictions from model
+
+  Epoch 6, Step 18
+ > 00:49:21 | Getting predictions from model
+
+  Epoch 6, Step 19
+ > 00:49:22 | Getting predictions from model
+
+  Epoch 6, Step 20
+ > 00:49:23 | Getting predictions from model
+
+  Epoch 6, Step 21
+ > 00:49:24 | Getting predictions from model
+
+  Epoch 6, Step 22
+ > 00:49:25 | Getting predictions from model
+
+  Epoch 6, Step 23
+ > 00:49:25 | Getting predictions from model
+
+  Epoch 6, Step 24
+ > 00:49:26 | Getting predictions from model
+
+  Epoch 6, Step 25
+ > 00:49:27 | Getting predictions from model
+
+  Epoch 6, Step 26
+ > 00:49:28 | Getting predictions from model
+
+  Epoch 6, Step 27
+ > 00:49:29 | Getting predictions from model
+
+  Epoch 6, Step 28
+ > 00:49:30 | Getting predictions from model
+
+  Epoch 6, Step 29
+ > 00:49:31 | Getting predictions from model
+ > 00:49:32 | mean loss = 3.16593337	( CMF : 3.1659 )
+ > 00:49:32 | Starting Visualizations
+ > 00:49:32 |  - Finished
+
+
+  Epoch 7, Step 0
+
+  Epoch 7, Step 0
+ > 00:49:33 | Getting predictions from model
+
+  Epoch 7, Step 1
+ > 00:49:34 | Getting predictions from model
+
+  Epoch 7, Step 2
+ > 00:49:35 | Getting predictions from model
+
+  Epoch 7, Step 3
+ > 00:49:36 | Getting predictions from model
+
+  Epoch 7, Step 4
+ > 00:49:37 | Getting predictions from model
+
+  Epoch 7, Step 5
+ > 00:49:38 | Getting predictions from model
+
+  Epoch 7, Step 6
+ > 00:49:39 | Getting predictions from model
+
+  Epoch 7, Step 7
+ > 00:49:41 | Getting predictions from model
+
+  Epoch 7, Step 8
+ > 00:49:42 | Getting predictions from model
+
+  Epoch 7, Step 9
+ > 00:49:42 | Getting predictions from model
+
+  Epoch 7, Step 10
+ > 00:49:43 | Getting predictions from model
+
+  Epoch 7, Step 11
+ > 00:49:44 | Getting predictions from model
+
+  Epoch 7, Step 12
+ > 00:49:45 | Getting predictions from model
+
+  Epoch 7, Step 13
+ > 00:49:46 | Getting predictions from model
+
+  Epoch 7, Step 14
+ > 00:49:47 | Getting predictions from model
+
+  Epoch 7, Step 15
+ > 00:49:48 | Getting predictions from model
+
+  Epoch 7, Step 16
+ > 00:49:49 | Getting predictions from model
+
+  Epoch 7, Step 17
+ > 00:49:50 | Getting predictions from model
+
+  Epoch 7, Step 18
+ > 00:49:51 | Getting predictions from model
+
+  Epoch 7, Step 19
+ > 00:49:52 | Getting predictions from model
+
+  Epoch 7, Step 20
+ > 00:49:53 | Getting predictions from model
+
+  Epoch 7, Step 21
+ > 00:49:53 | Getting predictions from model
+
+  Epoch 7, Step 22
+ > 00:49:54 | Getting predictions from model
+
+  Epoch 7, Step 23
+ > 00:49:55 | Getting predictions from model
+
+  Epoch 7, Step 24
+ > 00:49:56 | Getting predictions from model
+
+  Epoch 7, Step 25
+ > 00:49:57 | Getting predictions from model
+
+  Epoch 7, Step 26
+ > 00:49:58 | Getting predictions from model
+
+  Epoch 7, Step 27
+ > 00:49:59 | Getting predictions from model
+
+  Epoch 7, Step 28
+ > 00:50:00 | Getting predictions from model
+
+  Epoch 7, Step 29
+ > 00:50:00 | Getting predictions from model
+ > 00:50:01 | mean loss = 3.04529428	( CMF : 3.0453 )
+ > 00:50:01 | Starting Visualizations
+ > 00:50:01 |  - Finished
+
+
+  Epoch 8, Step 0
+
+  Epoch 8, Step 0
+ > 00:50:02 | Getting predictions from model
+
+  Epoch 8, Step 1
+ > 00:50:03 | Getting predictions from model
+
+  Epoch 8, Step 2
+ > 00:50:05 | Getting predictions from model
+
+  Epoch 8, Step 3
+ > 00:50:06 | Getting predictions from model
+
+  Epoch 8, Step 4
+ > 00:50:07 | Getting predictions from model
+
+  Epoch 8, Step 5
+ > 00:50:08 | Getting predictions from model
+
+  Epoch 8, Step 6
+ > 00:50:09 | Getting predictions from model
+
+  Epoch 8, Step 7
+ > 00:50:10 | Getting predictions from model
+
+  Epoch 8, Step 8
+ > 00:50:11 | Getting predictions from model
+
+  Epoch 8, Step 9
+ > 00:50:12 | Getting predictions from model
+
+  Epoch 8, Step 10
+ > 00:50:13 | Getting predictions from model
+
+  Epoch 8, Step 11
+ > 00:50:14 | Getting predictions from model
+
+  Epoch 8, Step 12
+ > 00:50:15 | Getting predictions from model
+
+  Epoch 8, Step 13
+ > 00:50:16 | Getting predictions from model
+
+  Epoch 8, Step 14
+ > 00:50:17 | Getting predictions from model
+
+  Epoch 8, Step 15
+ > 00:50:17 | Getting predictions from model
+
+  Epoch 8, Step 16
+ > 00:50:18 | Getting predictions from model
+
+  Epoch 8, Step 17
+ > 00:50:19 | Getting predictions from model
+
+  Epoch 8, Step 18
+ > 00:50:20 | Getting predictions from model
+
+  Epoch 8, Step 19
+ > 00:50:21 | Getting predictions from model
+
+  Epoch 8, Step 20
+ > 00:50:22 | Getting predictions from model
+
+  Epoch 8, Step 21
+ > 00:50:23 | Getting predictions from model
+
+  Epoch 8, Step 22
+ > 00:50:24 | Getting predictions from model
+
+  Epoch 8, Step 23
+ > 00:50:25 | Getting predictions from model
+
+  Epoch 8, Step 24
+ > 00:50:26 | Getting predictions from model
+
+  Epoch 8, Step 25
+ > 00:50:27 | Getting predictions from model
+
+  Epoch 8, Step 26
+ > 00:50:27 | Getting predictions from model
+
+  Epoch 8, Step 27
+ > 00:50:28 | Getting predictions from model
+
+  Epoch 8, Step 28
+ > 00:50:29 | Getting predictions from model
+
+  Epoch 8, Step 29
+ > 00:50:30 | Getting predictions from model
+ > 00:50:31 | mean loss = 2.97411656	( CMF : 2.9741 )
+ > 00:50:31 | Starting Visualizations
+ > 00:50:31 |  - Finished
+
+
+  Epoch 9, Step 0
+
+  Epoch 9, Step 0
+ > 00:50:32 | Getting predictions from model
+
+  Epoch 9, Step 1
+ > 00:50:33 | Getting predictions from model
+
+  Epoch 9, Step 2
+ > 00:50:34 | Getting predictions from model
+
+  Epoch 9, Step 3
+ > 00:50:35 | Getting predictions from model
+
+  Epoch 9, Step 4
+ > 00:50:36 | Getting predictions from model
+
+  Epoch 9, Step 5
+ > 00:50:37 | Getting predictions from model
+
+  Epoch 9, Step 6
+ > 00:50:38 | Getting predictions from model
+
+  Epoch 9, Step 7
+ > 00:50:40 | Getting predictions from model
+
+  Epoch 9, Step 8
+ > 00:50:40 | Getting predictions from model
+
+  Epoch 9, Step 9
+ > 00:50:41 | Getting predictions from model
+
+  Epoch 9, Step 10
+ > 00:50:42 | Getting predictions from model
+
+  Epoch 9, Step 11
+ > 00:50:43 | Getting predictions from model
+
+  Epoch 9, Step 12
+ > 00:50:44 | Getting predictions from model
+
+  Epoch 9, Step 13
+ > 00:50:45 | Getting predictions from model
+
+  Epoch 9, Step 14
+ > 00:50:46 | Getting predictions from model
+
+  Epoch 9, Step 15
+ > 00:50:47 | Getting predictions from model
+
+  Epoch 9, Step 16
+ > 00:50:48 | Getting predictions from model
+
+  Epoch 9, Step 17
+ > 00:50:49 | Getting predictions from model
+
+  Epoch 9, Step 18
+ > 00:50:50 | Getting predictions from model
+
+  Epoch 9, Step 19
+ > 00:50:51 | Getting predictions from model
+
+  Epoch 9, Step 20
+ > 00:50:51 | Getting predictions from model
+
+  Epoch 9, Step 21
+ > 00:50:52 | Getting predictions from model
+
+  Epoch 9, Step 22
+ > 00:50:53 | Getting predictions from model
+
+  Epoch 9, Step 23
+ > 00:50:54 | Getting predictions from model
+
+  Epoch 9, Step 24
+ > 00:50:55 | Getting predictions from model
+
+  Epoch 9, Step 25
+ > 00:50:56 | Getting predictions from model
+
+  Epoch 9, Step 26
+ > 00:50:57 | Getting predictions from model
+
+  Epoch 9, Step 27
+ > 00:50:58 | Getting predictions from model
+
+  Epoch 9, Step 28
+ > 00:50:59 | Getting predictions from model
+
+  Epoch 9, Step 29
+ > 00:51:00 | Getting predictions from model
+ > 00:51:01 | mean loss = 3.00284338	( CMF : 3.0028 )
+ > 00:51:01 | Starting Visualizations
+ > 00:51:01 |  - Finished
+
+
+  Epoch 10, Step 0
+
+  Epoch 10, Step 0
+ > 00:51:02 | Getting predictions from model
+
+  Epoch 10, Step 1
+ > 00:51:03 | Getting predictions from model
+
+  Epoch 10, Step 2
+ > 00:51:04 | Getting predictions from model
+
+  Epoch 10, Step 3
+ > 00:51:05 | Getting predictions from model
+
+  Epoch 10, Step 4
+ > 00:51:06 | Getting predictions from model
+
+  Epoch 10, Step 5
+ > 00:51:07 | Getting predictions from model
+
+  Epoch 10, Step 6
+ > 00:51:08 | Getting predictions from model
+
+  Epoch 10, Step 7
+ > 00:51:09 | Getting predictions from model
+
+  Epoch 10, Step 8
+ > 00:51:10 | Getting predictions from model
+
+  Epoch 10, Step 9
+ > 00:51:12 | Getting predictions from model
+
+  Epoch 10, Step 10
+ > 00:51:13 | Getting predictions from model
+
+  Epoch 10, Step 11
+ > 00:51:14 | Getting predictions from model
+
+  Epoch 10, Step 12
+ > 00:51:15 | Getting predictions from model
+
+  Epoch 10, Step 13
+ > 00:51:16 | Getting predictions from model
+
+  Epoch 10, Step 14
+ > 00:51:17 | Getting predictions from model
+
+  Epoch 10, Step 15
+ > 00:51:18 | Getting predictions from model
+
+  Epoch 10, Step 16
+ > 00:51:19 | Getting predictions from model
+
+  Epoch 10, Step 17
+ > 00:51:20 | Getting predictions from model
+
+  Epoch 10, Step 18
+ > 00:51:21 | Getting predictions from model
+
+  Epoch 10, Step 19
+ > 00:51:22 | Getting predictions from model
+
+  Epoch 10, Step 20
+ > 00:51:23 | Getting predictions from model
+
+  Epoch 10, Step 21
+ > 00:51:23 | Getting predictions from model
+
+  Epoch 10, Step 22
+ > 00:51:24 | Getting predictions from model
+
+  Epoch 10, Step 23
+ > 00:51:25 | Getting predictions from model
+
+  Epoch 10, Step 24
+ > 00:51:26 | Getting predictions from model
+
+  Epoch 10, Step 25
+ > 00:51:27 | Getting predictions from model
+
+  Epoch 10, Step 26
+ > 00:51:28 | Getting predictions from model
+
+  Epoch 10, Step 27
+ > 00:51:29 | Getting predictions from model
+
+  Epoch 10, Step 28
+ > 00:51:30 | Getting predictions from model
+
+  Epoch 10, Step 29
+ > 00:51:31 | Getting predictions from model
+ > 00:51:31 | mean loss = 2.95208478	( CMF : 2.9521 )
+ > 00:51:31 | Starting Visualizations
+ > 00:51:49 |  - Finished
+
+
+  Epoch 11, Step 0
+
+  Epoch 11, Step 0
+ > 00:51:50 | Getting predictions from model
+
+  Epoch 11, Step 1
+ > 00:51:51 | Getting predictions from model
+
+  Epoch 11, Step 2
+ > 00:51:52 | Getting predictions from model
+
+  Epoch 11, Step 3
+ > 00:51:54 | Getting predictions from model
+
+  Epoch 11, Step 4
+ > 00:51:55 | Getting predictions from model
+
+  Epoch 11, Step 5
+ > 00:51:56 | Getting predictions from model
+
+  Epoch 11, Step 6
+ > 00:51:57 | Getting predictions from model
+
+  Epoch 11, Step 7
+ > 00:51:58 | Getting predictions from model
+
+  Epoch 11, Step 8
+ > 00:51:59 | Getting predictions from model
+
+  Epoch 11, Step 9
+ > 00:52:00 | Getting predictions from model
+
+  Epoch 11, Step 10
+ > 00:52:01 | Getting predictions from model
+
+  Epoch 11, Step 11
+ > 00:52:02 | Getting predictions from model
+
+  Epoch 11, Step 12
+ > 00:52:03 | Getting predictions from model
+
+  Epoch 11, Step 13
+ > 00:52:04 | Getting predictions from model
+
+  Epoch 11, Step 14
+ > 00:52:05 | Getting predictions from model
+
+  Epoch 11, Step 15
+ > 00:52:06 | Getting predictions from model
+
+  Epoch 11, Step 16
+ > 00:52:07 | Getting predictions from model
+
+  Epoch 11, Step 17
+ > 00:52:08 | Getting predictions from model
+
+  Epoch 11, Step 18
+ > 00:52:09 | Getting predictions from model
+
+  Epoch 11, Step 19
+ > 00:52:10 | Getting predictions from model
+
+  Epoch 11, Step 20
+ > 00:52:11 | Getting predictions from model
+
+  Epoch 11, Step 21
+ > 00:52:12 | Getting predictions from model
+
+  Epoch 11, Step 22
+ > 00:52:13 | Getting predictions from model
+
+  Epoch 11, Step 23
+ > 00:52:13 | Getting predictions from model
+
+  Epoch 11, Step 24
+ > 00:52:14 | Getting predictions from model
+
+  Epoch 11, Step 25
+ > 00:52:15 | Getting predictions from model
+
+  Epoch 11, Step 26
+ > 00:52:16 | Getting predictions from model
+
+  Epoch 11, Step 27
+ > 00:52:17 | Getting predictions from model
+
+  Epoch 11, Step 28
+ > 00:52:18 | Getting predictions from model
+
+  Epoch 11, Step 29
+ > 00:52:19 | Getting predictions from model
+ > 00:52:20 | mean loss = 2.90927505	( CMF : 2.9093 )
+ > 00:52:20 | Starting Visualizations
+ > 00:52:20 |  - Finished
+
+
+  Epoch 12, Step 0
+
+  Epoch 12, Step 0
+ > 00:52:21 | Getting predictions from model
+
+  Epoch 12, Step 1
+ > 00:52:22 | Getting predictions from model
+
+  Epoch 12, Step 2
+ > 00:52:23 | Getting predictions from model
+
+  Epoch 12, Step 3
+ > 00:52:24 | Getting predictions from model
+
+  Epoch 12, Step 4
+ > 00:52:25 | Getting predictions from model
+
+  Epoch 12, Step 5
+ > 00:52:26 | Getting predictions from model
+
+  Epoch 12, Step 6
+ > 00:52:27 | Getting predictions from model
+
+  Epoch 12, Step 7
+ > 00:52:29 | Getting predictions from model
+
+  Epoch 12, Step 8
+ > 00:52:30 | Getting predictions from model
+
+  Epoch 12, Step 9
+ > 00:52:31 | Getting predictions from model
+
+  Epoch 12, Step 10
+ > 00:52:32 | Getting predictions from model
+
+  Epoch 12, Step 11
+ > 00:52:33 | Getting predictions from model
+
+  Epoch 12, Step 12
+ > 00:52:34 | Getting predictions from model
+
+  Epoch 12, Step 13
+ > 00:52:35 | Getting predictions from model
+
+  Epoch 12, Step 14
+ > 00:52:36 | Getting predictions from model
+
+  Epoch 12, Step 15
+ > 00:52:36 | Getting predictions from model
+
+  Epoch 12, Step 16
+ > 00:52:37 | Getting predictions from model
+
+  Epoch 12, Step 17
+ > 00:52:38 | Getting predictions from model
+
+  Epoch 12, Step 18
+ > 00:52:39 | Getting predictions from model
+
+  Epoch 12, Step 19
+ > 00:52:40 | Getting predictions from model
+
+  Epoch 12, Step 20
+ > 00:52:41 | Getting predictions from model
+
+  Epoch 12, Step 21
+ > 00:52:42 | Getting predictions from model
+
+  Epoch 12, Step 22
+ > 00:52:43 | Getting predictions from model
+
+  Epoch 12, Step 23
+ > 00:52:44 | Getting predictions from model
+
+  Epoch 12, Step 24
+ > 00:52:45 | Getting predictions from model
+
+  Epoch 12, Step 25
+ > 00:52:46 | Getting predictions from model
+
+  Epoch 12, Step 26
+ > 00:52:47 | Getting predictions from model
+
+  Epoch 12, Step 27
+ > 00:52:47 | Getting predictions from model
+
+  Epoch 12, Step 28
+ > 00:52:48 | Getting predictions from model
+
+  Epoch 12, Step 29
+ > 00:52:49 | Getting predictions from model
+ > 00:52:50 | mean loss = 2.85914397	( CMF : 2.8591 )
+ > 00:52:50 | Starting Visualizations
+ > 00:52:50 |  - Finished
+
+
+  Epoch 13, Step 0
+
+  Epoch 13, Step 0
+ > 00:52:51 | Getting predictions from model
+
+  Epoch 13, Step 1
+ > 00:52:52 | Getting predictions from model
+
+  Epoch 13, Step 2
+ > 00:52:53 | Getting predictions from model
+
+  Epoch 13, Step 3
+ > 00:52:54 | Getting predictions from model
+
+  Epoch 13, Step 4
+ > 00:52:55 | Getting predictions from model
+
+  Epoch 13, Step 5
+ > 00:52:57 | Getting predictions from model
+
+  Epoch 13, Step 6
+ > 00:52:58 | Getting predictions from model
+
+  Epoch 13, Step 7
+ > 00:52:59 | Getting predictions from model
+
+  Epoch 13, Step 8
+ > 00:53:00 | Getting predictions from model
+
+  Epoch 13, Step 9
+ > 00:53:01 | Getting predictions from model
+
+  Epoch 13, Step 10
+ > 00:53:02 | Getting predictions from model
+
+  Epoch 13, Step 11
+ > 00:53:03 | Getting predictions from model
+
+  Epoch 13, Step 12
+ > 00:53:04 | Getting predictions from model
+
+  Epoch 13, Step 13
+ > 00:53:05 | Getting predictions from model
+
+  Epoch 13, Step 14
+ > 00:53:05 | Getting predictions from model
+
+  Epoch 13, Step 15
+ > 00:53:06 | Getting predictions from model
+
+  Epoch 13, Step 16
+ > 00:53:07 | Getting predictions from model
+
+  Epoch 13, Step 17
+ > 00:53:08 | Getting predictions from model
+
+  Epoch 13, Step 18
+ > 00:53:09 | Getting predictions from model
+
+  Epoch 13, Step 19
+ > 00:53:10 | Getting predictions from model
+
+  Epoch 13, Step 20
+ > 00:53:11 | Getting predictions from model
+
+  Epoch 13, Step 21
+ > 00:53:12 | Getting predictions from model
+
+  Epoch 13, Step 22
+ > 00:53:13 | Getting predictions from model
+
+  Epoch 13, Step 23
+ > 00:53:15 | Getting predictions from model
+
+  Epoch 13, Step 24
+ > 00:53:16 | Getting predictions from model
+
+  Epoch 13, Step 25
+ > 00:53:17 | Getting predictions from model
+
+  Epoch 13, Step 26
+ > 00:53:18 | Getting predictions from model
+
+  Epoch 13, Step 27
+ > 00:53:19 | Getting predictions from model
+
+  Epoch 13, Step 28
+ > 00:53:20 | Getting predictions from model
+
+  Epoch 13, Step 29
+ > 00:53:20 | Getting predictions from model
+ > 00:53:21 | mean loss = 2.86524725	( CMF : 2.8652 )
+ > 00:53:21 | Starting Visualizations
+ > 00:53:21 |  - Finished
+
+
+  Epoch 14, Step 0
+
+  Epoch 14, Step 0
+ > 00:53:23 | Getting predictions from model
+
+  Epoch 14, Step 1
+ > 00:53:24 | Getting predictions from model
+
+  Epoch 14, Step 2
+ > 00:53:25 | Getting predictions from model
+
+  Epoch 14, Step 3
+ > 00:53:26 | Getting predictions from model
+
+  Epoch 14, Step 4
+ > 00:53:27 | Getting predictions from model
+
+  Epoch 14, Step 5
+ > 00:53:28 | Getting predictions from model
+
+  Epoch 14, Step 6
+ > 00:53:29 | Getting predictions from model
+
+  Epoch 14, Step 7
+ > 00:53:30 | Getting predictions from model
+
+  Epoch 14, Step 8
+ > 00:53:31 | Getting predictions from model
+
+  Epoch 14, Step 9
+ > 00:53:32 | Getting predictions from model
+
+  Epoch 14, Step 10
+ > 00:53:33 | Getting predictions from model
+
+  Epoch 14, Step 11
+ > 00:53:34 | Getting predictions from model
+
+  Epoch 14, Step 12
+ > 00:53:35 | Getting predictions from model
+
+  Epoch 14, Step 13
+ > 00:53:36 | Getting predictions from model
+
+  Epoch 14, Step 14
+ > 00:53:36 | Getting predictions from model
+
+  Epoch 14, Step 15
+ > 00:53:37 | Getting predictions from model
+
+  Epoch 14, Step 16
+ > 00:53:38 | Getting predictions from model
+
+  Epoch 14, Step 17
+ > 00:53:39 | Getting predictions from model
+
+  Epoch 14, Step 18
+ > 00:53:40 | Getting predictions from model
+
+  Epoch 14, Step 19
+ > 00:53:41 | Getting predictions from model
+
+  Epoch 14, Step 20
+ > 00:53:42 | Getting predictions from model
+
+  Epoch 14, Step 21
+ > 00:53:43 | Getting predictions from model
+
+  Epoch 14, Step 22
+ > 00:53:44 | Getting predictions from model
+
+  Epoch 14, Step 23
+ > 00:53:45 | Getting predictions from model
+
+  Epoch 14, Step 24
+ > 00:53:45 | Getting predictions from model
+
+  Epoch 14, Step 25
+ > 00:53:46 | Getting predictions from model
+
+  Epoch 14, Step 26
+ > 00:53:47 | Getting predictions from model
+
+  Epoch 14, Step 27
+ > 00:53:48 | Getting predictions from model
+
+  Epoch 14, Step 28
+ > 00:53:49 | Getting predictions from model
+
+  Epoch 14, Step 29
+ > 00:53:50 | Getting predictions from model
+ > 00:53:51 | mean loss = 2.92404366	( CMF : 2.924 )
+ > 00:53:51 | Starting Visualizations
+ > 00:53:51 |  - Finished
+
+
+  Epoch 15, Step 0
+
+  Epoch 15, Step 0
+ > 00:53:52 | Getting predictions from model
+
+  Epoch 15, Step 1
+ > 00:53:53 | Getting predictions from model
+
+  Epoch 15, Step 2
+ > 00:53:54 | Getting predictions from model
+
+  Epoch 15, Step 3
+ > 00:53:55 | Getting predictions from model
+
+  Epoch 15, Step 4
+ > 00:53:56 | Getting predictions from model
+
+  Epoch 15, Step 5
+ > 00:53:57 | Getting predictions from model
+
+  Epoch 15, Step 6
+ > 00:53:58 | Getting predictions from model
+
+  Epoch 15, Step 7
+ > 00:53:59 | Getting predictions from model
+
+  Epoch 15, Step 8
+ > 00:54:00 | Getting predictions from model
+
+  Epoch 15, Step 9
+ > 00:54:01 | Getting predictions from model
+
+  Epoch 15, Step 10
+ > 00:54:02 | Getting predictions from model
+
+  Epoch 15, Step 11
+ > 00:54:03 | Getting predictions from model
+
+  Epoch 15, Step 12
+ > 00:54:04 | Getting predictions from model
+
+  Epoch 15, Step 13
+ > 00:54:05 | Getting predictions from model
+
+  Epoch 15, Step 14
+ > 00:54:06 | Getting predictions from model
+
+  Epoch 15, Step 15
+ > 00:54:07 | Getting predictions from model
+
+  Epoch 15, Step 16
+ > 00:54:08 | Getting predictions from model
+
+  Epoch 15, Step 17
+ > 00:54:09 | Getting predictions from model
+
+  Epoch 15, Step 18
+ > 00:54:10 | Getting predictions from model
+
+  Epoch 15, Step 19
+ > 00:54:11 | Getting predictions from model
+
+  Epoch 15, Step 20
+ > 00:54:12 | Getting predictions from model
+
+  Epoch 15, Step 21
+ > 00:54:12 | Getting predictions from model
+
+  Epoch 15, Step 22
+ > 00:54:13 | Getting predictions from model
+
+  Epoch 15, Step 23
+ > 00:54:14 | Getting predictions from model
+
+  Epoch 15, Step 24
+ > 00:54:15 | Getting predictions from model
+
+  Epoch 15, Step 25
+ > 00:54:16 | Getting predictions from model
+
+  Epoch 15, Step 26
+ > 00:54:17 | Getting predictions from model
+
+  Epoch 15, Step 27
+ > 00:54:18 | Getting predictions from model
+
+  Epoch 15, Step 28
+ > 00:54:19 | Getting predictions from model
+
+  Epoch 15, Step 29
+ > 00:54:20 | Getting predictions from model
+ > 00:54:21 | mean loss = 2.90631080	( CMF : 2.9063 )
+ > 00:54:21 | Starting Visualizations
+ > 00:54:39 |  - Finished
+
+
+  Epoch 16, Step 0
+
+  Epoch 16, Step 0
+ > 00:54:40 | Getting predictions from model
+
+  Epoch 16, Step 1
+ > 00:54:41 | Getting predictions from model
+
+  Epoch 16, Step 2
+ > 00:54:42 | Getting predictions from model
+
+  Epoch 16, Step 3
+ > 00:54:43 | Getting predictions from model
+
+  Epoch 16, Step 4
+ > 00:54:44 | Getting predictions from model
+
+  Epoch 16, Step 5
+ > 00:54:45 | Getting predictions from model
+
+  Epoch 16, Step 6
+ > 00:54:46 | Getting predictions from model
+
+  Epoch 16, Step 7
+ > 00:54:47 | Getting predictions from model
+
+  Epoch 16, Step 8
+ > 00:54:48 | Getting predictions from model
+
+  Epoch 16, Step 9
+ > 00:54:49 | Getting predictions from model
+
+  Epoch 16, Step 10
+ > 00:54:50 | Getting predictions from model
+
+  Epoch 16, Step 11
+ > 00:54:51 | Getting predictions from model
+
+  Epoch 16, Step 12
+ > 00:54:52 | Getting predictions from model
+
+  Epoch 16, Step 13
+ > 00:54:53 | Getting predictions from model
+
+  Epoch 16, Step 14
+ > 00:54:54 | Getting predictions from model
+
+  Epoch 16, Step 15
+ > 00:54:55 | Getting predictions from model
+
+  Epoch 16, Step 16
+ > 00:54:56 | Getting predictions from model
+
+  Epoch 16, Step 17
+ > 00:54:57 | Getting predictions from model
+
+  Epoch 16, Step 18
+ > 00:54:58 | Getting predictions from model
+
+  Epoch 16, Step 19
+ > 00:54:59 | Getting predictions from model
+
+  Epoch 16, Step 20
+ > 00:55:00 | Getting predictions from model
+
+  Epoch 16, Step 21
+ > 00:55:01 | Getting predictions from model
+
+  Epoch 16, Step 22
+ > 00:55:01 | Getting predictions from model
+
+  Epoch 16, Step 23
+ > 00:55:02 | Getting predictions from model
+
+  Epoch 16, Step 24
+ > 00:55:03 | Getting predictions from model
+
+  Epoch 16, Step 25
+ > 00:55:04 | Getting predictions from model
+
+  Epoch 16, Step 26
+ > 00:55:05 | Getting predictions from model
+
+  Epoch 16, Step 27
+ > 00:55:06 | Getting predictions from model
+
+  Epoch 16, Step 28
+ > 00:55:07 | Getting predictions from model
+
+  Epoch 16, Step 29
+ > 00:55:08 | Getting predictions from model
+ > 00:55:09 | mean loss = 3.04978871	( CMF : 3.0498 )
+ > 00:55:09 | Starting Visualizations
+ > 00:55:09 |  - Finished
+
+
+  Epoch 17, Step 0
+
+  Epoch 17, Step 0
+ > 00:55:10 | Getting predictions from model
+
+  Epoch 17, Step 1
+ > 00:55:11 | Getting predictions from model
+
+  Epoch 17, Step 2
+ > 00:55:12 | Getting predictions from model
+
+  Epoch 17, Step 3
+ > 00:55:13 | Getting predictions from model
+
+  Epoch 17, Step 4
+ > 00:55:14 | Getting predictions from model
+
+  Epoch 17, Step 5
+ > 00:55:15 | Getting predictions from model
+
+  Epoch 17, Step 6
+ > 00:55:17 | Getting predictions from model
+
+  Epoch 17, Step 7
+ > 00:55:18 | Getting predictions from model
+
+  Epoch 17, Step 8
+ > 00:55:19 | Getting predictions from model
+
+  Epoch 17, Step 9
+ > 00:55:19 | Getting predictions from model
+
+  Epoch 17, Step 10
+ > 00:55:20 | Getting predictions from model
+
+  Epoch 17, Step 11
+ > 00:55:21 | Getting predictions from model
+
+  Epoch 17, Step 12
+ > 00:55:22 | Getting predictions from model
+
+  Epoch 17, Step 13
+ > 00:55:23 | Getting predictions from model
+
+  Epoch 17, Step 14
+ > 00:55:24 | Getting predictions from model
+
+  Epoch 17, Step 15
+ > 00:55:25 | Getting predictions from model
+
+  Epoch 17, Step 16
+ > 00:55:26 | Getting predictions from model
+
+  Epoch 17, Step 17
+ > 00:55:27 | Getting predictions from model
+
+  Epoch 17, Step 18
+ > 00:55:28 | Getting predictions from model
+
+  Epoch 17, Step 19
+ > 00:55:29 | Getting predictions from model
+
+  Epoch 17, Step 20
+ > 00:55:30 | Getting predictions from model
+
+  Epoch 17, Step 21
+ > 00:55:31 | Getting predictions from model
+
+  Epoch 17, Step 22
+ > 00:55:32 | Getting predictions from model
+
+  Epoch 17, Step 23
+ > 00:55:33 | Getting predictions from model
+
+  Epoch 17, Step 24
+ > 00:55:33 | Getting predictions from model
+
+  Epoch 17, Step 25
+ > 00:55:34 | Getting predictions from model
+
+  Epoch 17, Step 26
+ > 00:55:35 | Getting predictions from model
+
+  Epoch 17, Step 27
+ > 00:55:36 | Getting predictions from model
+
+  Epoch 17, Step 28
+ > 00:55:37 | Getting predictions from model
+
+  Epoch 17, Step 29
+ > 00:55:38 | Getting predictions from model
+ > 00:55:39 | mean loss = 2.96338677	( CMF : 2.9634 )
+ > 00:55:39 | Starting Visualizations
+ > 00:55:39 |  - Finished
+
+
+  Epoch 18, Step 0
+
+  Epoch 18, Step 0
+ > 00:55:40 | Getting predictions from model
+
+  Epoch 18, Step 1
+ > 00:55:41 | Getting predictions from model
+
+  Epoch 18, Step 2
+ > 00:55:42 | Getting predictions from model
+
+  Epoch 18, Step 3
+ > 00:55:43 | Getting predictions from model
+
+  Epoch 18, Step 4
+ > 00:55:45 | Getting predictions from model
+
+  Epoch 18, Step 5
+ > 00:55:46 | Getting predictions from model
+
+  Epoch 18, Step 6
+ > 00:55:47 | Getting predictions from model
+
+  Epoch 18, Step 7
+ > 00:55:48 | Getting predictions from model
+
+  Epoch 18, Step 8
+ > 00:55:49 | Getting predictions from model
+
+  Epoch 18, Step 9
+ > 00:55:50 | Getting predictions from model
+
+  Epoch 18, Step 10
+ > 00:55:51 | Getting predictions from model
+
+  Epoch 18, Step 11
+ > 00:55:52 | Getting predictions from model
+
+  Epoch 18, Step 12
+ > 00:55:52 | Getting predictions from model
+
+  Epoch 18, Step 13
+ > 00:55:53 | Getting predictions from model
+
+  Epoch 18, Step 14
+ > 00:55:54 | Getting predictions from model
+
+  Epoch 18, Step 15
+ > 00:55:55 | Getting predictions from model
+
+  Epoch 18, Step 16
+ > 00:55:56 | Getting predictions from model
+
+  Epoch 18, Step 17
+ > 00:55:57 | Getting predictions from model
+
+  Epoch 18, Step 18
+ > 00:55:58 | Getting predictions from model
+
+  Epoch 18, Step 19
+ > 00:55:59 | Getting predictions from model
+
+  Epoch 18, Step 20
+ > 00:56:00 | Getting predictions from model
+
+  Epoch 18, Step 21
+ > 00:56:01 | Getting predictions from model
+
+  Epoch 18, Step 22
+ > 00:56:02 | Getting predictions from model
+
+  Epoch 18, Step 23
+ > 00:56:02 | Getting predictions from model
+
+  Epoch 18, Step 24
+ > 00:56:03 | Getting predictions from model
+
+  Epoch 18, Step 25
+ > 00:56:04 | Getting predictions from model
+
+  Epoch 18, Step 26
+ > 00:56:05 | Getting predictions from model
+
+  Epoch 18, Step 27
+ > 00:56:06 | Getting predictions from model
+
+  Epoch 18, Step 28
+ > 00:56:07 | Getting predictions from model
+
+  Epoch 18, Step 29
+ > 00:56:08 | Getting predictions from model
+ > 00:56:09 | mean loss = 2.90102935	( CMF : 2.901 )
+ > 00:56:09 | Starting Visualizations
+ > 00:56:09 |  - Finished
+
+
+  Epoch 19, Step 0
+
+  Epoch 19, Step 0
+ > 00:56:10 | Getting predictions from model
+
+  Epoch 19, Step 1
+ > 00:56:11 | Getting predictions from model
+
+  Epoch 19, Step 2
+ > 00:56:12 | Getting predictions from model
+
+  Epoch 19, Step 3
+ > 00:56:13 | Getting predictions from model
+
+  Epoch 19, Step 4
+ > 00:56:14 | Getting predictions from model
+
+  Epoch 19, Step 5
+ > 00:56:15 | Getting predictions from model
+
+  Epoch 19, Step 6
+ > 00:56:16 | Getting predictions from model
+
+  Epoch 19, Step 7
+ > 00:56:17 | Getting predictions from model
+
+  Epoch 19, Step 8
+ > 00:56:18 | Getting predictions from model
+
+  Epoch 19, Step 9
+ > 00:56:20 | Getting predictions from model
+
+  Epoch 19, Step 10
+ > 00:56:21 | Getting predictions from model
+
+  Epoch 19, Step 11
+ > 00:56:22 | Getting predictions from model
+
+  Epoch 19, Step 12
+ > 00:56:22 | Getting predictions from model
+
+  Epoch 19, Step 13
+ > 00:56:23 | Getting predictions from model
+
+  Epoch 19, Step 14
+ > 00:56:24 | Getting predictions from model
+
+  Epoch 19, Step 15
+ > 00:56:25 | Getting predictions from model
+
+  Epoch 19, Step 16
+ > 00:56:26 | Getting predictions from model
+
+  Epoch 19, Step 17
+ > 00:56:27 | Getting predictions from model
+
+  Epoch 19, Step 18
+ > 00:56:28 | Getting predictions from model
+
+  Epoch 19, Step 19
+ > 00:56:30 | Getting predictions from model
+
+  Epoch 19, Step 20
+ > 00:56:31 | Getting predictions from model
+
+  Epoch 19, Step 21
+ > 00:56:32 | Getting predictions from model
+
+  Epoch 19, Step 22
+ > 00:56:33 | Getting predictions from model
+
+  Epoch 19, Step 23
+ > 00:56:34 | Getting predictions from model
+
+  Epoch 19, Step 24
+ > 00:56:35 | Getting predictions from model
+
+  Epoch 19, Step 25
+ > 00:56:36 | Getting predictions from model
+
+  Epoch 19, Step 26
+ > 00:56:37 | Getting predictions from model
+
+  Epoch 19, Step 27
+ > 00:56:38 | Getting predictions from model
+
+  Epoch 19, Step 28
+ > 00:56:39 | Getting predictions from model
+
+  Epoch 19, Step 29
+ > 00:56:40 | Getting predictions from model
+ > 00:56:41 | mean loss = 2.90363860	( CMF : 2.9036 )
+ > 00:56:41 | Starting Visualizations
+ > 00:56:41 |  - Finished
+
+
+  Epoch 20, Step 0
+
+  Epoch 20, Step 0
+ > 00:56:42 | Getting predictions from model
+
+  Epoch 20, Step 1
+ > 00:56:43 | Getting predictions from model
+
+  Epoch 20, Step 2
+ > 00:56:44 | Getting predictions from model
+
+  Epoch 20, Step 3
+ > 00:56:45 | Getting predictions from model
+
+  Epoch 20, Step 4
+ > 00:56:46 | Getting predictions from model
+
+  Epoch 20, Step 5
+ > 00:56:47 | Getting predictions from model
+
+  Epoch 20, Step 6
+ > 00:56:48 | Getting predictions from model
+
+  Epoch 20, Step 7
+ > 00:56:50 | Getting predictions from model
+
+  Epoch 20, Step 8
+ > 00:56:51 | Getting predictions from model
+
+  Epoch 20, Step 9
+ > 00:56:52 | Getting predictions from model
+
+  Epoch 20, Step 10
+ > 00:56:53 | Getting predictions from model
+
+  Epoch 20, Step 11
+ > 00:56:54 | Getting predictions from model
+
+  Epoch 20, Step 12
+ > 00:56:55 | Getting predictions from model
+
+  Epoch 20, Step 13
+ > 00:56:56 | Getting predictions from model
+
+  Epoch 20, Step 14
+ > 00:56:57 | Getting predictions from model
+
+  Epoch 20, Step 15
+ > 00:56:58 | Getting predictions from model
+
+  Epoch 20, Step 16
+ > 00:56:59 | Getting predictions from model
+
+  Epoch 20, Step 17
+ > 00:57:00 | Getting predictions from model
+
+  Epoch 20, Step 18
+ > 00:57:01 | Getting predictions from model
+
+  Epoch 20, Step 19
+ > 00:57:03 | Getting predictions from model
+
+  Epoch 20, Step 20
+ > 00:57:04 | Getting predictions from model
+
+  Epoch 20, Step 21
+ > 00:57:05 | Getting predictions from model
+
+  Epoch 20, Step 22
+ > 00:57:06 | Getting predictions from model
+
+  Epoch 20, Step 23
+ > 00:57:07 | Getting predictions from model
+
+  Epoch 20, Step 24
+ > 00:57:08 | Getting predictions from model
+
+  Epoch 20, Step 25
+ > 00:57:09 | Getting predictions from model
+
+  Epoch 20, Step 26
+ > 00:57:10 | Getting predictions from model
+
+  Epoch 20, Step 27
+ > 00:57:11 | Getting predictions from model
+
+  Epoch 20, Step 28
+ > 00:57:13 | Getting predictions from model
+
+  Epoch 20, Step 29
+ > 00:57:14 | Getting predictions from model
+ > 00:57:15 | mean loss = 2.91473103	( CMF : 2.9147 )
+ > 00:57:15 | Starting Visualizations
+ > 00:57:36 |  - Finished
+
+
+  Epoch 21, Step 0
+
+  Epoch 21, Step 0
+ > 00:57:37 | Getting predictions from model
+
+  Epoch 21, Step 1
+ > 00:57:39 | Getting predictions from model
+
+  Epoch 21, Step 2
+ > 00:57:40 | Getting predictions from model
+
+  Epoch 21, Step 3
+ > 00:57:41 | Getting predictions from model
+
+  Epoch 21, Step 4
+ > 00:57:42 | Getting predictions from model
+
+  Epoch 21, Step 5
+ > 00:57:43 | Getting predictions from model
+
+  Epoch 21, Step 6
+ > 00:57:47 | Getting predictions from model
+
+  Epoch 21, Step 7
+ > 00:57:50 | Getting predictions from model
+
+  Epoch 21, Step 8
+ > 00:57:52 | Getting predictions from model
+
+  Epoch 21, Step 9
+ > 01:12:54 | Getting predictions from model
+
+  Epoch 21, Step 10
+ > 01:12:58 | Getting predictions from model
+
+  Epoch 21, Step 11
+ > 01:13:03 | Getting predictions from model
+
+  Epoch 21, Step 12
+ > 01:13:07 | Getting predictions from model
+
+  Epoch 21, Step 13
+ > 01:13:11 | Getting predictions from model
+
+  Epoch 21, Step 14
+ > 01:13:13 | Getting predictions from model
+
+  Epoch 21, Step 15
+ > 01:13:16 | Getting predictions from model
+
+  Epoch 21, Step 16
+ > 01:13:19 | Getting predictions from model
+
+  Epoch 21, Step 17
+ > 01:13:23 | Getting predictions from model
+
+  Epoch 21, Step 18
+ > 01:13:26 | Getting predictions from model
+
+  Epoch 21, Step 19
+ > 01:13:30 | Getting predictions from model
+
+  Epoch 21, Step 20
+ > 01:13:33 | Getting predictions from model
+
+  Epoch 21, Step 21
+ > 01:13:36 | Getting predictions from model
+
+  Epoch 21, Step 22
+ > 01:13:40 | Getting predictions from model
+
+  Epoch 21, Step 23
+ > 01:13:43 | Getting predictions from model
+
+  Epoch 21, Step 24
+ > 01:13:47 | Getting predictions from model
+
+  Epoch 21, Step 25
+ > 01:13:51 | Getting predictions from model
+
+  Epoch 21, Step 26
+ > 01:13:54 | Getting predictions from model
+
+  Epoch 21, Step 27
+ > 01:13:58 | Getting predictions from model
+
+  Epoch 21, Step 28
+ > 01:14:01 | Getting predictions from model
+
+  Epoch 21, Step 29
+ > 01:14:05 | Getting predictions from model
+ > 01:14:09 | mean loss = 2.84260273	( CMF : 2.8426 )
+ > 01:14:09 | Starting Visualizations
+ > 01:14:09 |  - Finished
+
+
+  Epoch 22, Step 0
+
+  Epoch 22, Step 0
+ > 01:14:10 | Getting predictions from model
+
+  Epoch 22, Step 1
+ > 01:14:14 | Getting predictions from model
+
+  Epoch 22, Step 2
+ > 01:14:19 | Getting predictions from model
+
+  Epoch 22, Step 3
+ > 01:14:24 | Getting predictions from model
+
+  Epoch 22, Step 4
+ > 01:14:32 | Getting predictions from model
+
+  Epoch 22, Step 5
+ > 01:14:38 | Getting predictions from model
+
+  Epoch 22, Step 6
+ > 01:14:45 | Getting predictions from model
+
+  Epoch 22, Step 7
+ > 01:14:50 | Getting predictions from model
+
+  Epoch 22, Step 8
+ > 01:14:55 | Getting predictions from model
+
+  Epoch 22, Step 9
+ > 01:14:59 | Getting predictions from model
+
+  Epoch 22, Step 10
+ > 01:15:04 | Getting predictions from model
+
+  Epoch 22, Step 11
+ > 01:15:08 | Getting predictions from model
+
+  Epoch 22, Step 12
+ > 01:15:12 | Getting predictions from model
+
+  Epoch 22, Step 13
+ > 01:15:16 | Getting predictions from model
+
+  Epoch 22, Step 14
+ > 01:15:20 | Getting predictions from model
+
+  Epoch 22, Step 15
+ > 01:15:24 | Getting predictions from model
+
+  Epoch 22, Step 16
+ > 01:15:28 | Getting predictions from model
+
+  Epoch 22, Step 17
+ > 01:15:32 | Getting predictions from model
+
+  Epoch 22, Step 18
+ > 01:15:36 | Getting predictions from model
+
+  Epoch 22, Step 19
+ > 01:15:40 | Getting predictions from model
+
+  Epoch 22, Step 20
+ > 01:15:44 | Getting predictions from model
+
+  Epoch 22, Step 21
+ > 01:15:48 | Getting predictions from model
+
+  Epoch 22, Step 22
+ > 01:15:52 | Getting predictions from model
+
+  Epoch 22, Step 23
+ > 01:15:57 | Getting predictions from model
+
+  Epoch 22, Step 24
+ > 01:32:25 | Getting predictions from model
+
+  Epoch 22, Step 25
+ > 01:32:31 | Getting predictions from model
+
+  Epoch 22, Step 26
+ > 01:32:35 | Getting predictions from model
+
+  Epoch 22, Step 27
+ > 01:32:40 | Getting predictions from model
+
+  Epoch 22, Step 28
+ > 01:32:44 | Getting predictions from model
+
+  Epoch 22, Step 29
+ > 01:32:48 | Getting predictions from model
+ > 01:32:53 | mean loss = 2.77636290	( CMF : 2.7764 )
+ > 01:32:53 | Starting Visualizations
+ > 01:32:53 |  - Finished
+
+
+  Epoch 23, Step 0
+
+  Epoch 23, Step 0
+ > 01:32:54 | Getting predictions from model
+
+  Epoch 23, Step 1
+ > 01:32:59 | Getting predictions from model
+
+  Epoch 23, Step 2
+ > 01:33:04 | Getting predictions from model
+
+  Epoch 23, Step 3
+ > 01:33:09 | Getting predictions from model
+
+  Epoch 23, Step 4
+ > 01:33:13 | Getting predictions from model
+
+  Epoch 23, Step 5
+ > 01:33:18 | Getting predictions from model
+
+  Epoch 23, Step 6
+ > 01:33:27 | Getting predictions from model
+
+  Epoch 23, Step 7
+ > 01:33:32 | Getting predictions from model
+
+  Epoch 23, Step 8
+ > 01:33:36 | Getting predictions from model
+
+  Epoch 23, Step 9
+ > 01:33:40 | Getting predictions from model
+
+  Epoch 23, Step 10
+ > 01:33:44 | Getting predictions from model
+
+  Epoch 23, Step 11
+ > 01:33:49 | Getting predictions from model
+
+  Epoch 23, Step 12
+ > 01:33:53 | Getting predictions from model
+
+  Epoch 23, Step 13
+ > 01:33:57 | Getting predictions from model
+
+  Epoch 23, Step 14
+ > 01:34:01 | Getting predictions from model
+
+  Epoch 23, Step 15
+ > 01:34:05 | Getting predictions from model
+
+  Epoch 23, Step 16
+ > 01:34:10 | Getting predictions from model
+
+  Epoch 23, Step 17
+ > 01:34:16 | Getting predictions from model
+
+  Epoch 23, Step 18
+ > 01:34:22 | Getting predictions from model
+
+  Epoch 23, Step 19
+ > 01:34:27 | Getting predictions from model
+
+  Epoch 23, Step 20
+ > 01:34:32 | Getting predictions from model
+
+  Epoch 23, Step 21
+ > 01:34:37 | Getting predictions from model
+
+  Epoch 23, Step 22
+ > 01:34:41 | Getting predictions from model
+
+  Epoch 23, Step 23
+ > 01:34:45 | Getting predictions from model
+
+  Epoch 23, Step 24
+ > 01:34:50 | Getting predictions from model
+
+  Epoch 23, Step 25
+ > 01:34:54 | Getting predictions from model
+
+  Epoch 23, Step 26
+ > 01:34:58 | Getting predictions from model
+
+  Epoch 23, Step 27
+ > 01:35:02 | Getting predictions from model
+
+  Epoch 23, Step 28
+ > 01:35:05 | Getting predictions from model
+
+  Epoch 23, Step 29
+ > 01:35:09 | Getting predictions from model
+ > 01:35:13 | mean loss = 2.62689805	( CMF : 2.6269 )
+ > 01:35:13 | Starting Visualizations
+ > 01:35:13 |  - Finished
+
+
+  Epoch 24, Step 0
+
+  Epoch 24, Step 0
+ > 01:35:15 | Getting predictions from model
+
+  Epoch 24, Step 1
+ > 01:35:20 | Getting predictions from model
+
+  Epoch 24, Step 2
+ > 01:35:26 | Getting predictions from model
+
+  Epoch 24, Step 3
+ > 01:35:32 | Getting predictions from model
+
+  Epoch 24, Step 4
+ > 01:35:38 | Getting predictions from model
+
+  Epoch 24, Step 5
+ > 01:35:44 | Getting predictions from model
+
+  Epoch 24, Step 6
+ > 01:35:52 | Getting predictions from model
+
+  Epoch 24, Step 7
+ > 01:35:57 | Getting predictions from model
+
+  Epoch 24, Step 8
+ > 01:36:02 | Getting predictions from model
+
+  Epoch 24, Step 9
+ > 01:36:06 | Getting predictions from model
+
+  Epoch 24, Step 10
+ > 01:36:10 | Getting predictions from model
+
+  Epoch 24, Step 11
+ > 01:36:14 | Getting predictions from model
+
+  Epoch 24, Step 12
+ > 01:36:19 | Getting predictions from model
+
+  Epoch 24, Step 13
+ > 01:36:22 | Getting predictions from model
+
+  Epoch 24, Step 14
+ > 01:36:27 | Getting predictions from model
+
+  Epoch 24, Step 15
+ > 01:36:31 | Getting predictions from model
+
+  Epoch 24, Step 16
+ > 01:36:35 | Getting predictions from model
+
+  Epoch 24, Step 17
+ > 01:36:39 | Getting predictions from model
+
+  Epoch 24, Step 18
+ > 01:36:42 | Getting predictions from model
+
+  Epoch 24, Step 19
+ > 01:36:46 | Getting predictions from model
+
+  Epoch 24, Step 20
+ > 01:36:51 | Getting predictions from model
+
+  Epoch 24, Step 21
+ > 01:36:57 | Getting predictions from model
+
+  Epoch 24, Step 22
+ > 01:37:01 | Getting predictions from model
+
+  Epoch 24, Step 23
+ > 01:37:05 | Getting predictions from model
+
+  Epoch 24, Step 24
+ > 01:37:10 | Getting predictions from model
+
+  Epoch 24, Step 25
+ > 01:37:14 | Getting predictions from model
+
+  Epoch 24, Step 26
+ > 01:37:18 | Getting predictions from model
+
+  Epoch 24, Step 27
+ > 01:37:23 | Getting predictions from model
+
+  Epoch 24, Step 28
+ > 01:37:27 | Getting predictions from model
+
+  Epoch 24, Step 29
+ > 01:37:34 | Getting predictions from model
+ > 01:37:40 | mean loss = 2.61157274	( CMF : 2.6116 )
+ > 01:37:40 | Starting Visualizations
+ > 01:37:40 |  - Finished
+
+
+  Epoch 25, Step 0
+
+  Epoch 25, Step 0
+ > 01:37:44 | Getting predictions from model
+
+  Epoch 25, Step 1
+ > 01:37:49 | Getting predictions from model
+
+  Epoch 25, Step 2
+ > 01:37:55 | Getting predictions from model
+
+  Epoch 25, Step 3
+ > 01:38:01 | Getting predictions from model
+
+  Epoch 25, Step 4
+ > 01:38:06 | Getting predictions from model
+
+  Epoch 25, Step 5
+ > 01:38:11 | Getting predictions from model
+
+  Epoch 25, Step 6
+ > 01:38:15 | Getting predictions from model
+
+  Epoch 25, Step 7
+ > 01:38:20 | Getting predictions from model
+
+  Epoch 25, Step 8
+ > 01:38:25 | Getting predictions from model
+
+  Epoch 25, Step 9
+ > 01:38:30 | Getting predictions from model
+
+  Epoch 25, Step 10
+ > 01:38:34 | Getting predictions from model
+
+  Epoch 25, Step 11
+ > 01:38:38 | Getting predictions from model
+
+  Epoch 25, Step 12
+ > 01:38:43 | Getting predictions from model
+
+  Epoch 25, Step 13
+ > 01:38:47 | Getting predictions from model
+
+  Epoch 25, Step 14
+ > 01:38:51 | Getting predictions from model
+
+  Epoch 25, Step 15
+ > 01:38:56 | Getting predictions from model
+
+  Epoch 25, Step 16
+ > 01:39:00 | Getting predictions from model
+
+  Epoch 25, Step 17
+ > 01:39:04 | Getting predictions from model
+
+  Epoch 25, Step 18
+ > 01:39:09 | Getting predictions from model
+
+  Epoch 25, Step 19
+ > 01:39:13 | Getting predictions from model
+
+  Epoch 25, Step 20
+ > 01:39:17 | Getting predictions from model
+
+  Epoch 25, Step 21
+ > 01:39:21 | Getting predictions from model
+
+  Epoch 25, Step 22
+ > 01:39:26 | Getting predictions from model
+
+  Epoch 25, Step 23
+ > 01:39:30 | Getting predictions from model
+
+  Epoch 25, Step 24
+ > 01:39:35 | Getting predictions from model
+
+  Epoch 25, Step 25
+ > 01:39:39 | Getting predictions from model
+
+  Epoch 25, Step 26
+ > 01:39:43 | Getting predictions from model
+
+  Epoch 25, Step 27
+ > 01:39:48 | Getting predictions from model
+
+  Epoch 25, Step 28
+ > 01:39:52 | Getting predictions from model
+
+  Epoch 25, Step 29
+ > 01:39:56 | Getting predictions from model
+ > 01:40:01 | mean loss = 2.62724018	( CMF : 2.6272 )
+ > 01:40:01 | Starting Visualizations
+ > 01:40:44 |  - Finished
+
+
+  Epoch 26, Step 0
+
+  Epoch 26, Step 0
+ > 01:40:46 | Getting predictions from model
+
+  Epoch 26, Step 1
+ > 01:40:50 | Getting predictions from model
+
+  Epoch 26, Step 2
+ > 01:40:54 | Getting predictions from model
+
+  Epoch 26, Step 3
+ > 01:40:59 | Getting predictions from model
+
+  Epoch 26, Step 4
+ > 01:41:04 | Getting predictions from model
+
+  Epoch 26, Step 5
+ > 01:41:10 | Getting predictions from model
+
+  Epoch 26, Step 6
+ > 01:41:15 | Getting predictions from model
+
+  Epoch 26, Step 7
+ > 01:41:19 | Getting predictions from model
+
+  Epoch 26, Step 8
+ > 01:41:25 | Getting predictions from model
+
+  Epoch 26, Step 9
+ > 01:41:29 | Getting predictions from model
+
+  Epoch 26, Step 10
+ > 01:41:33 | Getting predictions from model
+
+  Epoch 26, Step 11
+ > 01:41:38 | Getting predictions from model
+
+  Epoch 26, Step 12
+ > 01:41:42 | Getting predictions from model
+
+  Epoch 26, Step 13
+ > 01:41:46 | Getting predictions from model
+
+  Epoch 26, Step 14
+ > 01:58:25 | Getting predictions from model
+
+  Epoch 26, Step 15
+ > 01:58:31 | Getting predictions from model
+
+  Epoch 26, Step 16
+ > 01:58:36 | Getting predictions from model
+
+  Epoch 26, Step 17
+ > 01:58:40 | Getting predictions from model
+
+  Epoch 26, Step 18
+ > 01:58:44 | Getting predictions from model
+
+  Epoch 26, Step 19
+ > 01:58:49 | Getting predictions from model
+
+  Epoch 26, Step 20
+ > 01:58:53 | Getting predictions from model
+
+  Epoch 26, Step 21
+ > 01:58:57 | Getting predictions from model
+
+  Epoch 26, Step 22
+ > 01:59:01 | Getting predictions from model
+
+  Epoch 26, Step 23
+ > 01:59:06 | Getting predictions from model
+
+  Epoch 26, Step 24
+ > 01:59:10 | Getting predictions from model
+
+  Epoch 26, Step 25
+ > 01:59:15 | Getting predictions from model
+
+  Epoch 26, Step 26
+ > 01:59:19 | Getting predictions from model
+
+  Epoch 26, Step 27
+ > 01:59:23 | Getting predictions from model
+
+  Epoch 26, Step 28
+ > 01:59:28 | Getting predictions from model
+
+  Epoch 26, Step 29
+ > 01:59:32 | Getting predictions from model
+ > 01:59:37 | mean loss = 2.73540998	( CMF : 2.7354 )
+ > 01:59:37 | Starting Visualizations
+ > 01:59:37 |  - Finished
+
+
+  Epoch 27, Step 0
+
+  Epoch 27, Step 0
+ > 01:59:38 | Getting predictions from model
+
+  Epoch 27, Step 1
+ > 01:59:43 | Getting predictions from model
+
+  Epoch 27, Step 2
+ > 01:59:48 | Getting predictions from model
+
+  Epoch 27, Step 3
+ > 01:59:52 | Getting predictions from model
+
+  Epoch 27, Step 4
+ > 01:59:57 | Getting predictions from model
+
+  Epoch 27, Step 5
+ > 02:00:01 | Getting predictions from model
+
+  Epoch 27, Step 6
+ > 02:00:05 | Getting predictions from model
+
+  Epoch 27, Step 7
+ > 02:00:09 | Getting predictions from model
+
+  Epoch 27, Step 8
+ > 02:00:13 | Getting predictions from model
+
+  Epoch 27, Step 9
+ > 02:00:17 | Getting predictions from model
+
+  Epoch 27, Step 10
+ > 02:00:21 | Getting predictions from model
+
+  Epoch 27, Step 11
+ > 02:00:25 | Getting predictions from model
+
+  Epoch 27, Step 12
+ > 02:00:29 | Getting predictions from model
+
+  Epoch 27, Step 13
+ > 02:00:33 | Getting predictions from model
+
+  Epoch 27, Step 14
+ > 02:00:37 | Getting predictions from model
+
+  Epoch 27, Step 15
+ > 02:00:41 | Getting predictions from model
+
+  Epoch 27, Step 16
+ > 02:00:45 | Getting predictions from model
+
+  Epoch 27, Step 17
+ > 02:00:49 | Getting predictions from model
+
+  Epoch 27, Step 18
+ > 02:00:54 | Getting predictions from model
+
+  Epoch 27, Step 19
+ > 02:00:58 | Getting predictions from model
+
+  Epoch 27, Step 20
+ > 02:01:02 | Getting predictions from model
+
+  Epoch 27, Step 21
+ > 02:01:06 | Getting predictions from model
+
+  Epoch 27, Step 22
+ > 02:01:11 | Getting predictions from model
+
+  Epoch 27, Step 23
+ > 02:01:15 | Getting predictions from model
+
+  Epoch 27, Step 24
+ > 02:01:19 | Getting predictions from model
+
+  Epoch 27, Step 25
+ > 02:01:24 | Getting predictions from model
+
+  Epoch 27, Step 26
+ > 02:01:28 | Getting predictions from model
+
+  Epoch 27, Step 27
+ > 02:01:32 | Getting predictions from model
+
+  Epoch 27, Step 28
+ > 02:01:37 | Getting predictions from model
+
+  Epoch 27, Step 29
+ > 02:01:45 | Getting predictions from model
+ > 02:01:49 | mean loss = 2.82430720	( CMF : 2.8243 )
+ > 02:01:49 | Starting Visualizations
+ > 02:01:49 |  - Finished
+
+
+  Epoch 28, Step 0
+
+  Epoch 28, Step 0
+ > 02:01:51 | Getting predictions from model
+
+  Epoch 28, Step 1
+ > 02:01:56 | Getting predictions from model
+
+  Epoch 28, Step 2
+ > 02:02:01 | Getting predictions from model
+
+  Epoch 28, Step 3
+ > 02:02:07 | Getting predictions from model
+
+  Epoch 28, Step 4
+ > 02:02:12 | Getting predictions from model
+
+  Epoch 28, Step 5
+ > 02:02:16 | Getting predictions from model
+
+  Epoch 28, Step 6
+ > 02:02:20 | Getting predictions from model
+
+  Epoch 28, Step 7
+ > 02:02:24 | Getting predictions from model
+
+  Epoch 28, Step 8
+ > 02:02:28 | Getting predictions from model
+
+  Epoch 28, Step 9
+ > 02:02:32 | Getting predictions from model
+
+  Epoch 28, Step 10
+ > 02:02:37 | Getting predictions from model
+
+  Epoch 28, Step 11
+ > 02:02:41 | Getting predictions from model
+
+  Epoch 28, Step 12
+ > 02:02:45 | Getting predictions from model
+
+  Epoch 28, Step 13
+ > 02:02:49 | Getting predictions from model
+
+  Epoch 28, Step 14
+ > 02:02:53 | Getting predictions from model
+
+  Epoch 28, Step 15
+ > 02:02:58 | Getting predictions from model
+
+  Epoch 28, Step 16
+ > 02:03:02 | Getting predictions from model
+
+  Epoch 28, Step 17
+ > 02:03:05 | Getting predictions from model
+
+  Epoch 28, Step 18
+ > 02:03:10 | Getting predictions from model
+
+  Epoch 28, Step 19
+ > 02:03:15 | Getting predictions from model
+
+  Epoch 28, Step 20
+ > 02:03:20 | Getting predictions from model
+
+  Epoch 28, Step 21
+ > 02:03:26 | Getting predictions from model
+
+  Epoch 28, Step 22
+ > 02:03:32 | Getting predictions from model
+
+  Epoch 28, Step 23
+ > 02:03:38 | Getting predictions from model
+
+  Epoch 28, Step 24
+ > 02:03:43 | Getting predictions from model
+
+  Epoch 28, Step 25
+ > 02:03:49 | Getting predictions from model
+
+  Epoch 28, Step 26
+ > 02:03:54 | Getting predictions from model
+
+  Epoch 28, Step 27
+ > 02:03:58 | Getting predictions from model
+
+  Epoch 28, Step 28
+ > 02:04:02 | Getting predictions from model
+
+  Epoch 28, Step 29
+ > 02:04:06 | Getting predictions from model
+ > 02:04:10 | mean loss = 2.77418303	( CMF : 2.7742 )
+ > 02:04:10 | Starting Visualizations
+ > 02:04:10 |  - Finished
+
+
+  Epoch 29, Step 0
+
+  Epoch 29, Step 0
+ > 02:04:12 | Getting predictions from model
+
+  Epoch 29, Step 1
+ > 02:04:18 | Getting predictions from model
+
+  Epoch 29, Step 2
+ > 02:04:23 | Getting predictions from model
+
+  Epoch 29, Step 3
+ > 02:04:31 | Getting predictions from model
+
+  Epoch 29, Step 4
+ > 02:04:36 | Getting predictions from model
+
+  Epoch 29, Step 5
+ > 02:04:42 | Getting predictions from model
+
+  Epoch 29, Step 6
+ > 02:04:47 | Getting predictions from model
+
+  Epoch 29, Step 7
+ > 02:04:52 | Getting predictions from model
+
+  Epoch 29, Step 8
+ > 02:04:57 | Getting predictions from model
+
+  Epoch 29, Step 9
+ > 02:05:01 | Getting predictions from model
+
+  Epoch 29, Step 10
+ > 02:05:05 | Getting predictions from model
+
+  Epoch 29, Step 11
+ > 02:05:10 | Getting predictions from model
+
+  Epoch 29, Step 12
+ > 02:05:15 | Getting predictions from model
+
+  Epoch 29, Step 13
+ > 02:05:19 | Getting predictions from model
+
+  Epoch 29, Step 14
+ > 02:05:23 | Getting predictions from model
+
+  Epoch 29, Step 15
+ > 02:05:27 | Getting predictions from model
+
+  Epoch 29, Step 16
+ > 02:05:32 | Getting predictions from model
+
+  Epoch 29, Step 17
+ > 02:05:36 | Getting predictions from model
+
+  Epoch 29, Step 18
+ > 02:05:40 | Getting predictions from model
+
+  Epoch 29, Step 19
+ > 02:05:44 | Getting predictions from model
+
+  Epoch 29, Step 20
+ > 02:05:49 | Getting predictions from model
+
+  Epoch 29, Step 21
+ > 02:05:53 | Getting predictions from model
+
+  Epoch 29, Step 22
+ > 02:05:57 | Getting predictions from model
+
+  Epoch 29, Step 23
+ > 02:06:01 | Getting predictions from model
+
+  Epoch 29, Step 24
+ > 02:06:06 | Getting predictions from model
+
+  Epoch 29, Step 25
+ > 02:06:13 | Getting predictions from model
+
+  Epoch 29, Step 26
+ > 02:06:16 | Getting predictions from model
+
+  Epoch 29, Step 27
+ > 02:06:19 | Getting predictions from model
+
+  Epoch 29, Step 28
+ > 02:06:22 | Getting predictions from model
+
+  Epoch 29, Step 29
+ > 02:06:25 | Getting predictions from model
+ > 02:06:29 | mean loss = 2.66495228	( CMF : 2.665 )
+ > 02:06:29 | Starting Visualizations
+ > 02:06:29 |  - Finished
+
+
+  Epoch 30, Step 0
+
+  Epoch 30, Step 0
+ > 02:06:32 | Getting predictions from model
+
+  Epoch 30, Step 1
+ > 02:06:36 | Getting predictions from model
+
+  Epoch 30, Step 2
+ > 02:06:41 | Getting predictions from model
+
+  Epoch 30, Step 3
+ > 02:06:47 | Getting predictions from model
+
+  Epoch 30, Step 4
+ > 02:06:52 | Getting predictions from model
+
+  Epoch 30, Step 5
+ > 02:06:58 | Getting predictions from model
+
+  Epoch 30, Step 6
+ > 02:07:02 | Getting predictions from model
+
+  Epoch 30, Step 7
+ > 02:07:08 | Getting predictions from model
+
+  Epoch 30, Step 8
+ > 02:07:13 | Getting predictions from model
+
+  Epoch 30, Step 9
+ > 02:07:17 | Getting predictions from model
+
+  Epoch 30, Step 10
+ > 02:07:22 | Getting predictions from model
+
+  Epoch 30, Step 11
+ > 02:07:26 | Getting predictions from model
+
+  Epoch 30, Step 12
+ > 02:07:30 | Getting predictions from model
+
+  Epoch 30, Step 13
+ > 02:07:33 | Getting predictions from model
+
+  Epoch 30, Step 14
+ > 02:07:37 | Getting predictions from model
+
+  Epoch 30, Step 15
+ > 02:07:41 | Getting predictions from model
+
+  Epoch 30, Step 16
+ > 02:07:45 | Getting predictions from model
+
+  Epoch 30, Step 17
+ > 02:07:49 | Getting predictions from model
+
+  Epoch 30, Step 18
+ > 02:07:53 | Getting predictions from model
+
+  Epoch 30, Step 19
+ > 02:07:57 | Getting predictions from model
+
+  Epoch 30, Step 20
+ > 02:08:01 | Getting predictions from model
+
+  Epoch 30, Step 21
+ > 02:24:30 | Getting predictions from model
+
+  Epoch 30, Step 22
+ > 02:24:35 | Getting predictions from model
+
+  Epoch 30, Step 23
+ > 02:24:39 | Getting predictions from model
+
+  Epoch 30, Step 24
+ > 02:24:43 | Getting predictions from model
+
+  Epoch 30, Step 25
+ > 02:24:47 | Getting predictions from model
+
+  Epoch 30, Step 26
+ > 02:24:51 | Getting predictions from model
+
+  Epoch 30, Step 27
+ > 02:24:55 | Getting predictions from model
+
+  Epoch 30, Step 28
+ > 02:24:59 | Getting predictions from model
+
+  Epoch 30, Step 29
+ > 02:25:03 | Getting predictions from model
+ > 02:25:07 | mean loss = 2.58754563	( CMF : 2.5875 )
+ > 02:25:07 | Starting Visualizations
+ > 02:25:26 |  - Finished
+
+
+  Epoch 31, Step 0
+
+  Epoch 31, Step 0
+ > 02:25:27 | Getting predictions from model
+
+  Epoch 31, Step 1
+ > 02:25:30 | Getting predictions from model
+
+  Epoch 31, Step 2
+ > 02:25:33 | Getting predictions from model
+
+  Epoch 31, Step 3
+ > 02:25:37 | Getting predictions from model
+
+  Epoch 31, Step 4
+ > 02:25:41 | Getting predictions from model
+
+  Epoch 31, Step 5
+ > 02:25:44 | Getting predictions from model
+
+  Epoch 31, Step 6
+ > 02:25:49 | Getting predictions from model
+
+  Epoch 31, Step 7
+ > 02:25:54 | Getting predictions from model
+
+  Epoch 31, Step 8
+ > 02:25:58 | Getting predictions from model
+
+  Epoch 31, Step 9
+ > 02:26:03 | Getting predictions from model
+
+  Epoch 31, Step 10
+ > 02:26:07 | Getting predictions from model
+
+  Epoch 31, Step 11
+ > 02:26:11 | Getting predictions from model
+
+  Epoch 31, Step 12
+ > 02:26:15 | Getting predictions from model
+
+  Epoch 31, Step 13
+ > 02:26:19 | Getting predictions from model
+
+  Epoch 31, Step 14
+ > 02:26:23 | Getting predictions from model
+
+  Epoch 31, Step 15
+ > 02:26:28 | Getting predictions from model
+
+  Epoch 31, Step 16
+ > 02:26:33 | Getting predictions from model
+
+  Epoch 31, Step 17
+ > 02:26:38 | Getting predictions from model
+
+  Epoch 31, Step 18
+ > 02:26:44 | Getting predictions from model
+
+  Epoch 31, Step 19
+ > 02:26:49 | Getting predictions from model
+
+  Epoch 31, Step 20
+ > 02:26:54 | Getting predictions from model
+
+  Epoch 31, Step 21
+ > 02:26:59 | Getting predictions from model
+
+  Epoch 31, Step 22
+ > 02:27:03 | Getting predictions from model
+
+  Epoch 31, Step 23
+ > 02:27:10 | Getting predictions from model
+
+  Epoch 31, Step 24
+ > 02:27:14 | Getting predictions from model
+
+  Epoch 31, Step 25
+ > 02:27:18 | Getting predictions from model
+
+  Epoch 31, Step 26
+ > 02:27:22 | Getting predictions from model
+
+  Epoch 31, Step 27
+ > 02:27:27 | Getting predictions from model
+
+  Epoch 31, Step 28
+ > 02:27:31 | Getting predictions from model
+
+  Epoch 31, Step 29
+ > 02:27:35 | Getting predictions from model
+ > 02:27:39 | mean loss = 2.62199235	( CMF : 2.622 )
+ > 02:27:39 | Starting Visualizations
+ > 02:27:39 |  - Finished
+
+
+  Epoch 32, Step 0
+
+  Epoch 32, Step 0
+ > 02:27:40 | Getting predictions from model
+
+  Epoch 32, Step 1
+ > 02:27:45 | Getting predictions from model
+
+  Epoch 32, Step 2
+ > 02:27:51 | Getting predictions from model
+
+  Epoch 32, Step 3
+ > 02:27:58 | Getting predictions from model
+
+  Epoch 32, Step 4
+ > 02:28:04 | Getting predictions from model
+
+  Epoch 32, Step 5
+ > 02:28:10 | Getting predictions from model
+
+  Epoch 32, Step 6
+ > 02:28:17 | Getting predictions from model
+
+  Epoch 32, Step 7
+ > 02:28:23 | Getting predictions from model
+
+  Epoch 32, Step 8
+ > 02:28:28 | Getting predictions from model
+
+  Epoch 32, Step 9
+ > 02:28:33 | Getting predictions from model
+
+  Epoch 32, Step 10
+ > 02:28:37 | Getting predictions from model
+
+  Epoch 32, Step 11
+ > 02:28:41 | Getting predictions from model
+
+  Epoch 32, Step 12
+ > 02:28:45 | Getting predictions from model
+
+  Epoch 32, Step 13
+ > 02:28:49 | Getting predictions from model
+
+  Epoch 32, Step 14
+ > 02:28:53 | Getting predictions from model
+
+  Epoch 32, Step 15
+ > 02:28:57 | Getting predictions from model
+
+  Epoch 32, Step 16
+ > 02:29:01 | Getting predictions from model
+
+  Epoch 32, Step 17
+ > 02:29:05 | Getting predictions from model
+
+  Epoch 32, Step 18
+ > 02:29:09 | Getting predictions from model
+
+  Epoch 32, Step 19
+ > 02:29:13 | Getting predictions from model
+
+  Epoch 32, Step 20
+ > 02:29:17 | Getting predictions from model
+
+  Epoch 32, Step 21
+ > 02:29:21 | Getting predictions from model
+
+  Epoch 32, Step 22
+ > 02:29:25 | Getting predictions from model
+
+  Epoch 32, Step 23
+ > 02:29:29 | Getting predictions from model
+
+  Epoch 32, Step 24
+ > 02:29:33 | Getting predictions from model
+
+  Epoch 32, Step 25
+ > 02:29:37 | Getting predictions from model
+
+  Epoch 32, Step 26
+ > 02:29:42 | Getting predictions from model
+
+  Epoch 32, Step 27
+ > 02:29:46 | Getting predictions from model
+
+  Epoch 32, Step 28
+ > 02:29:54 | Getting predictions from model
+
+  Epoch 32, Step 29
+ > 02:29:58 | Getting predictions from model
+ > 02:30:02 | mean loss = 2.67245817	( CMF : 2.6725 )
+ > 02:30:02 | Starting Visualizations
+ > 02:30:02 |  - Finished
+
+
+  Epoch 33, Step 0
+
+  Epoch 33, Step 0
+ > 02:30:04 | Getting predictions from model
+
+  Epoch 33, Step 1
+ > 02:30:09 | Getting predictions from model
+
+  Epoch 33, Step 2
+ > 02:30:13 | Getting predictions from model
+
+  Epoch 33, Step 3
+ > 02:30:15 | Getting predictions from model
+
+  Epoch 33, Step 4
+ > 02:30:16 | Getting predictions from model
+
+  Epoch 33, Step 5
+ > 02:30:17 | Getting predictions from model
+
+  Epoch 33, Step 6
+ > 02:30:18 | Getting predictions from model
+
+  Epoch 33, Step 7
+ > 02:30:20 | Getting predictions from model
+
+  Epoch 33, Step 8
+ > 02:30:21 | Getting predictions from model
+
+  Epoch 33, Step 9
+ > 02:30:23 | Getting predictions from model
+
+  Epoch 33, Step 10
+ > 02:30:24 | Getting predictions from model
+
+  Epoch 33, Step 11
+ > 02:30:25 | Getting predictions from model
+
+  Epoch 33, Step 12
+ > 02:30:26 | Getting predictions from model
+
+  Epoch 33, Step 13
+ > 02:30:27 | Getting predictions from model
+
+  Epoch 33, Step 14
+ > 02:30:28 | Getting predictions from model
+
+  Epoch 33, Step 15
+ > 02:30:29 | Getting predictions from model
+
+  Epoch 33, Step 16
+ > 02:30:31 | Getting predictions from model
+
+  Epoch 33, Step 17
+ > 02:30:32 | Getting predictions from model
+
+  Epoch 33, Step 18
+ > 02:30:34 | Getting predictions from model
+
+  Epoch 33, Step 19
+ > 02:30:35 | Getting predictions from model
+
+  Epoch 33, Step 20
+ > 02:30:36 | Getting predictions from model
+
+  Epoch 33, Step 21
+ > 02:30:38 | Getting predictions from model
+
+  Epoch 33, Step 22
+ > 02:30:39 | Getting predictions from model
+
+  Epoch 33, Step 23
+ > 02:30:41 | Getting predictions from model
+
+  Epoch 33, Step 24
+ > 02:30:42 | Getting predictions from model
+
+  Epoch 33, Step 25
+ > 02:30:43 | Getting predictions from model
+
+  Epoch 33, Step 26
+ > 02:30:44 | Getting predictions from model
+
+  Epoch 33, Step 27
+ > 02:30:45 | Getting predictions from model
+
+  Epoch 33, Step 28
+ > 02:30:45 | Getting predictions from model
+
+  Epoch 33, Step 29
+ > 02:30:46 | Getting predictions from model
+ > 02:30:47 | mean loss = 2.72891808	( CMF : 2.7289 )
+ > 02:30:47 | Starting Visualizations
+ > 02:30:47 |  - Finished
+
+
+  Epoch 34, Step 0
+
+  Epoch 34, Step 0
+ > 02:30:49 | Getting predictions from model
+
+  Epoch 34, Step 1
+ > 02:30:50 | Getting predictions from model
+
+  Epoch 34, Step 2
+ > 02:30:51 | Getting predictions from model
+
+  Epoch 34, Step 3
+ > 02:30:53 | Getting predictions from model
+
+  Epoch 34, Step 4
+ > 02:30:54 | Getting predictions from model
+
+  Epoch 34, Step 5
+ > 02:30:55 | Getting predictions from model
+
+  Epoch 34, Step 6
+ > 02:30:56 | Getting predictions from model
+
+  Epoch 34, Step 7
+ > 02:30:58 | Getting predictions from model
+
+  Epoch 34, Step 8
+ > 02:30:59 | Getting predictions from model
+
+  Epoch 34, Step 9
+ > 02:31:00 | Getting predictions from model
+
+  Epoch 34, Step 10
+ > 02:31:01 | Getting predictions from model
+
+  Epoch 34, Step 11
+ > 02:31:02 | Getting predictions from model
+
+  Epoch 34, Step 12
+ > 02:31:03 | Getting predictions from model
+
+  Epoch 34, Step 13
+ > 02:31:04 | Getting predictions from model
+
+  Epoch 34, Step 14
+ > 02:31:05 | Getting predictions from model
+
+  Epoch 34, Step 15
+ > 02:31:06 | Getting predictions from model
+
+  Epoch 34, Step 16
+ > 02:31:07 | Getting predictions from model
+
+  Epoch 34, Step 17
+ > 02:31:08 | Getting predictions from model
+
+  Epoch 34, Step 18
+ > 02:31:09 | Getting predictions from model
+
+  Epoch 34, Step 19
+ > 02:31:10 | Getting predictions from model
+
+  Epoch 34, Step 20
+ > 02:31:11 | Getting predictions from model
+
+  Epoch 34, Step 21
+ > 02:31:12 | Getting predictions from model
+
+  Epoch 34, Step 22
+ > 02:31:14 | Getting predictions from model
+
+  Epoch 34, Step 23
+ > 02:31:15 | Getting predictions from model
+
+  Epoch 34, Step 24
+ > 02:31:16 | Getting predictions from model
+
+  Epoch 34, Step 25
+ > 02:31:18 | Getting predictions from model
+
+  Epoch 34, Step 26
+ > 02:31:19 | Getting predictions from model
+
+  Epoch 34, Step 27
+ > 02:31:20 | Getting predictions from model
+
+  Epoch 34, Step 28
+ > 02:31:21 | Getting predictions from model
+
+  Epoch 34, Step 29
+ > 02:31:23 | Getting predictions from model
+ > 02:31:24 | mean loss = 2.63366103	( CMF : 2.6337 )
+ > 02:31:24 | Starting Visualizations
+ > 02:31:24 |  - Finished
+
+
+  Epoch 35, Step 0
+
+  Epoch 35, Step 0
+ > 02:31:25 | Getting predictions from model
+
+  Epoch 35, Step 1
+ > 02:31:26 | Getting predictions from model
+
+  Epoch 35, Step 2
+ > 02:31:27 | Getting predictions from model
+
+  Epoch 35, Step 3
+ > 02:31:28 | Getting predictions from model
+
+  Epoch 35, Step 4
+ > 02:31:29 | Getting predictions from model
+
+  Epoch 35, Step 5
+ > 02:31:30 | Getting predictions from model
+
+  Epoch 35, Step 6
+ > 02:31:31 | Getting predictions from model
+
+  Epoch 35, Step 7
+ > 02:31:32 | Getting predictions from model
+
+  Epoch 35, Step 8
+ > 02:31:34 | Getting predictions from model
+
+  Epoch 35, Step 9
+ > 02:31:35 | Getting predictions from model
+
+  Epoch 35, Step 10
+ > 02:31:36 | Getting predictions from model
+
+  Epoch 35, Step 11
+ > 02:31:37 | Getting predictions from model
+
+  Epoch 35, Step 12
+ > 02:31:38 | Getting predictions from model
+
+  Epoch 35, Step 13
+ > 02:31:39 | Getting predictions from model
+
+  Epoch 35, Step 14
+ > 02:31:40 | Getting predictions from model
+
+  Epoch 35, Step 15
+ > 02:31:41 | Getting predictions from model
+
+  Epoch 35, Step 16
+ > 02:31:42 | Getting predictions from model
+
+  Epoch 35, Step 17
+ > 02:31:43 | Getting predictions from model
+
+  Epoch 35, Step 18
+ > 02:31:44 | Getting predictions from model
+
+  Epoch 35, Step 19
+ > 02:31:45 | Getting predictions from model
+
+  Epoch 35, Step 20
+ > 02:31:46 | Getting predictions from model
+
+  Epoch 35, Step 21
+ > 02:31:47 | Getting predictions from model
+
+  Epoch 35, Step 22
+ > 02:31:48 | Getting predictions from model
+
+  Epoch 35, Step 23
+ > 02:31:49 | Getting predictions from model
+
+  Epoch 35, Step 24
+ > 02:31:51 | Getting predictions from model
+
+  Epoch 35, Step 25
+ > 02:31:52 | Getting predictions from model
+
+  Epoch 35, Step 26
+ > 02:31:53 | Getting predictions from model
+
+  Epoch 35, Step 27
+ > 02:31:54 | Getting predictions from model
+
+  Epoch 35, Step 28
+ > 02:31:56 | Getting predictions from model
+
+  Epoch 35, Step 29
+ > 02:31:57 | Getting predictions from model
+ > 02:31:58 | mean loss = 2.58470559	( CMF : 2.5847 )
+ > 02:31:58 | Starting Visualizations
+ > 02:32:15 |  - Finished
+
+
+  Epoch 36, Step 0
+
+  Epoch 36, Step 0
+ > 02:32:17 | Getting predictions from model
+
+  Epoch 36, Step 1
+ > 02:32:18 | Getting predictions from model
+
+  Epoch 36, Step 2
+ > 02:32:19 | Getting predictions from model
+
+  Epoch 36, Step 3
+ > 02:32:20 | Getting predictions from model
+
+  Epoch 36, Step 4
+ > 02:32:21 | Getting predictions from model
+
+  Epoch 36, Step 5
+ > 02:32:22 | Getting predictions from model
+
+  Epoch 36, Step 6
+ > 02:32:23 | Getting predictions from model
+
+  Epoch 36, Step 7
+ > 02:32:24 | Getting predictions from model
+
+  Epoch 36, Step 8
+ > 02:32:26 | Getting predictions from model
+
+  Epoch 36, Step 9
+ > 02:32:27 | Getting predictions from model
+
+  Epoch 36, Step 10
+ > 02:32:29 | Getting predictions from model
+
+  Epoch 36, Step 11
+ > 02:32:30 | Getting predictions from model
+
+  Epoch 36, Step 12
+ > 02:32:31 | Getting predictions from model
+
+  Epoch 36, Step 13
+ > 02:32:33 | Getting predictions from model
+
+  Epoch 36, Step 14
+ > 02:32:34 | Getting predictions from model
+
+  Epoch 36, Step 15
+ > 02:32:35 | Getting predictions from model
+
+  Epoch 36, Step 16
+ > 02:32:36 | Getting predictions from model
+
+  Epoch 36, Step 17
+ > 02:32:37 | Getting predictions from model
+
+  Epoch 36, Step 18
+ > 02:32:38 | Getting predictions from model
+
+  Epoch 36, Step 19
+ > 02:32:39 | Getting predictions from model
+
+  Epoch 36, Step 20
+ > 02:32:40 | Getting predictions from model
+
+  Epoch 36, Step 21
+ > 02:32:41 | Getting predictions from model
+
+  Epoch 36, Step 22
+ > 02:32:42 | Getting predictions from model
+
+  Epoch 36, Step 23
+ > 02:32:43 | Getting predictions from model
+
+  Epoch 36, Step 24
+ > 02:32:44 | Getting predictions from model
+
+  Epoch 36, Step 25
+ > 02:32:45 | Getting predictions from model
+
+  Epoch 36, Step 26
+ > 02:32:46 | Getting predictions from model
+
+  Epoch 36, Step 27
+ > 02:32:47 | Getting predictions from model
+
+  Epoch 36, Step 28
+ > 02:32:48 | Getting predictions from model
+
+  Epoch 36, Step 29
+ > 02:32:49 | Getting predictions from model
+ > 02:32:50 | mean loss = 2.53038311	( CMF : 2.5304 )
+ > 02:32:50 | Starting Visualizations
+ > 02:32:50 |  - Finished
+
+
+  Epoch 37, Step 0
+
+  Epoch 37, Step 0
+ > 02:32:51 | Getting predictions from model
+
+  Epoch 37, Step 1
+ > 02:32:52 | Getting predictions from model
+
+  Epoch 37, Step 2
+ > 02:32:53 | Getting predictions from model
+
+  Epoch 37, Step 3
+ > 02:32:54 | Getting predictions from model
+
+  Epoch 37, Step 4
+ > 02:32:56 | Getting predictions from model
+
+  Epoch 37, Step 5
+ > 02:32:57 | Getting predictions from model
+
+  Epoch 37, Step 6
+ > 02:32:58 | Getting predictions from model
+
+  Epoch 37, Step 7
+ > 02:32:59 | Getting predictions from model
+
+  Epoch 37, Step 8
+ > 02:33:00 | Getting predictions from model
+
+  Epoch 37, Step 9
+ > 02:33:01 | Getting predictions from model
+
+  Epoch 37, Step 10
+ > 02:33:02 | Getting predictions from model
+
+  Epoch 37, Step 11
+ > 02:33:03 | Getting predictions from model
+
+  Epoch 37, Step 12
+ > 02:33:04 | Getting predictions from model
+
+  Epoch 37, Step 13
+ > 02:33:05 | Getting predictions from model
+
+  Epoch 37, Step 14
+ > 02:33:06 | Getting predictions from model
+
+  Epoch 37, Step 15
+ > 02:33:07 | Getting predictions from model
+
+  Epoch 37, Step 16
+ > 02:33:08 | Getting predictions from model
+
+  Epoch 37, Step 17
+ > 02:33:09 | Getting predictions from model
+
+  Epoch 37, Step 18
+ > 02:33:10 | Getting predictions from model
+
+  Epoch 37, Step 19
+ > 02:33:10 | Getting predictions from model
+
+  Epoch 37, Step 20
+ > 02:33:11 | Getting predictions from model
+
+  Epoch 37, Step 21
+ > 02:33:12 | Getting predictions from model
+
+  Epoch 37, Step 22
+ > 02:33:13 | Getting predictions from model
+
+  Epoch 37, Step 23
+ > 02:33:14 | Getting predictions from model
+
+  Epoch 37, Step 24
+ > 02:33:15 | Getting predictions from model
+
+  Epoch 37, Step 25
+ > 02:33:16 | Getting predictions from model
+
+  Epoch 37, Step 26
+ > 02:33:17 | Getting predictions from model
+
+  Epoch 37, Step 27
+ > 02:33:18 | Getting predictions from model
+
+  Epoch 37, Step 28
+ > 02:33:19 | Getting predictions from model
+
+  Epoch 37, Step 29
+ > 02:33:20 | Getting predictions from model
+ > 02:33:20 | mean loss = 2.55820489	( CMF : 2.5582 )
+ > 02:33:20 | Starting Visualizations
+ > 02:33:20 |  - Finished
+
+
+  Epoch 38, Step 0
+
+  Epoch 38, Step 0
+ > 02:33:21 | Getting predictions from model
+
+  Epoch 38, Step 1
+ > 02:33:23 | Getting predictions from model
+
+  Epoch 38, Step 2
+ > 02:33:24 | Getting predictions from model
+
+  Epoch 38, Step 3
+ > 02:33:25 | Getting predictions from model
+
+  Epoch 38, Step 4
+ > 02:33:26 | Getting predictions from model
+
+  Epoch 38, Step 5
+ > 02:33:27 | Getting predictions from model
+
+  Epoch 38, Step 6
+ > 02:33:28 | Getting predictions from model
+
+  Epoch 38, Step 7
+ > 02:33:29 | Getting predictions from model
+
+  Epoch 38, Step 8
+ > 02:33:30 | Getting predictions from model
+
+  Epoch 38, Step 9
+ > 02:33:32 | Getting predictions from model
+
+  Epoch 38, Step 10
+ > 02:33:33 | Getting predictions from model
+
+  Epoch 38, Step 11
+ > 02:33:33 | Getting predictions from model
+
+  Epoch 38, Step 12
+ > 02:33:34 | Getting predictions from model
+
+  Epoch 38, Step 13
+ > 02:33:35 | Getting predictions from model
+
+  Epoch 38, Step 14
+ > 02:33:36 | Getting predictions from model
+
+  Epoch 38, Step 15
+ > 02:33:37 | Getting predictions from model
+
+  Epoch 38, Step 16
+ > 02:33:38 | Getting predictions from model
+
+  Epoch 38, Step 17
+ > 02:33:39 | Getting predictions from model
+
+  Epoch 38, Step 18
+ > 02:33:40 | Getting predictions from model
+
+  Epoch 38, Step 19
+ > 02:33:41 | Getting predictions from model
+
+  Epoch 38, Step 20
+ > 02:33:42 | Getting predictions from model
+
+  Epoch 38, Step 21
+ > 02:33:43 | Getting predictions from model
+
+  Epoch 38, Step 22
+ > 02:33:44 | Getting predictions from model
+
+  Epoch 38, Step 23
+ > 02:33:45 | Getting predictions from model
+
+  Epoch 38, Step 24
+ > 02:33:46 | Getting predictions from model
+
+  Epoch 38, Step 25
+ > 02:33:46 | Getting predictions from model
+
+  Epoch 38, Step 26
+ > 02:33:47 | Getting predictions from model
+
+  Epoch 38, Step 27
+ > 02:33:48 | Getting predictions from model
+
+  Epoch 38, Step 28
+ > 02:33:49 | Getting predictions from model
+
+  Epoch 38, Step 29
+ > 02:33:50 | Getting predictions from model
+ > 02:33:51 | mean loss = 2.60504341	( CMF : 2.605 )
+ > 02:33:51 | Starting Visualizations
+ > 02:33:51 |  - Finished
+
+
+  Epoch 39, Step 0
+
+  Epoch 39, Step 0
+ > 02:33:52 | Getting predictions from model
+
+  Epoch 39, Step 1
+ > 02:33:53 | Getting predictions from model
+
+  Epoch 39, Step 2
+ > 02:33:54 | Getting predictions from model
+
+  Epoch 39, Step 3
+ > 02:33:55 | Getting predictions from model
+
+  Epoch 39, Step 4
+ > 02:33:56 | Getting predictions from model
+
+  Epoch 39, Step 5
+ > 02:33:57 | Getting predictions from model
+
+  Epoch 39, Step 6
+ > 02:33:58 | Getting predictions from model
+
+  Epoch 39, Step 7
+ > 02:33:59 | Getting predictions from model
+
+  Epoch 39, Step 8
+ > 02:34:00 | Getting predictions from model
+
+  Epoch 39, Step 9
+ > 02:34:01 | Getting predictions from model
+
+  Epoch 39, Step 10
+ > 02:34:02 | Getting predictions from model
+
+  Epoch 39, Step 11
+ > 02:34:03 | Getting predictions from model
+
+  Epoch 39, Step 12
+ > 02:34:04 | Getting predictions from model
+
+  Epoch 39, Step 13
+ > 02:34:05 | Getting predictions from model
+
+  Epoch 39, Step 14
+ > 02:34:06 | Getting predictions from model
+
+  Epoch 39, Step 15
+ > 02:34:07 | Getting predictions from model
+
+  Epoch 39, Step 16
+ > 02:34:08 | Getting predictions from model
+
+  Epoch 39, Step 17
+ > 02:34:09 | Getting predictions from model
+
+  Epoch 39, Step 18
+ > 02:34:10 | Getting predictions from model
+
+  Epoch 39, Step 19
+ > 02:34:11 | Getting predictions from model
+
+  Epoch 39, Step 20
+ > 02:34:12 | Getting predictions from model
+
+  Epoch 39, Step 21
+ > 02:34:13 | Getting predictions from model
+
+  Epoch 39, Step 22
+ > 02:34:14 | Getting predictions from model
+
+  Epoch 39, Step 23
+ > 02:34:15 | Getting predictions from model
+
+  Epoch 39, Step 24
+ > 02:34:16 | Getting predictions from model
+
+  Epoch 39, Step 25
+ > 02:34:17 | Getting predictions from model
+
+  Epoch 39, Step 26
+ > 02:34:18 | Getting predictions from model
+
+  Epoch 39, Step 27
+ > 02:34:19 | Getting predictions from model
+
+  Epoch 39, Step 28
+ > 02:34:19 | Getting predictions from model
+
+  Epoch 39, Step 29
+ > 02:34:20 | Getting predictions from model
+ > 02:34:21 | mean loss = 2.63981390	( CMF : 2.6398 )
+ > 02:34:21 | Starting Visualizations
+ > 02:34:21 |  - Finished
+
+
+  Epoch 40, Step 0
+
+  Epoch 40, Step 0
+ > 02:34:22 | Getting predictions from model
+
+  Epoch 40, Step 1
+ > 02:34:23 | Getting predictions from model
+
+  Epoch 40, Step 2
+ > 02:34:24 | Getting predictions from model
+
+  Epoch 40, Step 3
+ > 02:34:26 | Getting predictions from model
+
+  Epoch 40, Step 4
+ > 02:34:27 | Getting predictions from model
+
+  Epoch 40, Step 5
+ > 02:34:28 | Getting predictions from model
+
+  Epoch 40, Step 6
+ > 02:34:29 | Getting predictions from model
+
+  Epoch 40, Step 7
+ > 02:34:30 | Getting predictions from model
+
+  Epoch 40, Step 8
+ > 02:34:31 | Getting predictions from model
+
+  Epoch 40, Step 9
+ > 02:34:32 | Getting predictions from model
+
+  Epoch 40, Step 10
+ > 02:34:33 | Getting predictions from model
+
+  Epoch 40, Step 11
+ > 02:34:35 | Getting predictions from model
+
+  Epoch 40, Step 12
+ > 02:34:36 | Getting predictions from model
+
+  Epoch 40, Step 13
+ > 02:34:37 | Getting predictions from model
+
+  Epoch 40, Step 14
+ > 02:34:38 | Getting predictions from model
+
+  Epoch 40, Step 15
+ > 02:34:39 | Getting predictions from model
+
+  Epoch 40, Step 16
+ > 02:34:40 | Getting predictions from model
+
+  Epoch 40, Step 17
+ > 02:34:41 | Getting predictions from model
+
+  Epoch 40, Step 18
+ > 02:34:42 | Getting predictions from model
+
+  Epoch 40, Step 19
+ > 02:34:43 | Getting predictions from model
+
+  Epoch 40, Step 20
+ > 02:34:44 | Getting predictions from model
+
+  Epoch 40, Step 21
+ > 02:34:45 | Getting predictions from model
+
+  Epoch 40, Step 22
+ > 02:34:46 | Getting predictions from model
+
+  Epoch 40, Step 23
+ > 02:34:46 | Getting predictions from model
+
+  Epoch 40, Step 24
+ > 02:34:47 | Getting predictions from model
+
+  Epoch 40, Step 25
+ > 02:34:48 | Getting predictions from model
+
+  Epoch 40, Step 26
+ > 02:34:49 | Getting predictions from model
+
+  Epoch 40, Step 27
+ > 02:34:50 | Getting predictions from model
+
+  Epoch 40, Step 28
+ > 02:34:51 | Getting predictions from model
+
+  Epoch 40, Step 29
+ > 02:34:52 | Getting predictions from model
+ > 02:34:53 | mean loss = 2.65592241	( CMF : 2.6559 )
+ > 02:34:53 | Starting Visualizations
+ > 02:35:11 |  - Finished
+
+
+  Epoch 41, Step 0
+
+  Epoch 41, Step 0
+ > 02:35:12 | Getting predictions from model
+
+  Epoch 41, Step 1
+ > 02:35:13 | Getting predictions from model
+
+  Epoch 41, Step 2
+ > 02:35:14 | Getting predictions from model
+
+  Epoch 41, Step 3
+ > 02:35:15 | Getting predictions from model
+
+  Epoch 41, Step 4
+ > 02:35:16 | Getting predictions from model
+
+  Epoch 41, Step 5
+ > 02:35:18 | Getting predictions from model
+
+  Epoch 41, Step 6
+ > 02:35:19 | Getting predictions from model
+
+  Epoch 41, Step 7
+ > 02:35:20 | Getting predictions from model
+
+  Epoch 41, Step 8
+ > 02:35:21 | Getting predictions from model
+
+  Epoch 41, Step 9
+ > 02:35:22 | Getting predictions from model
+
+  Epoch 41, Step 10
+ > 02:35:23 | Getting predictions from model
+
+  Epoch 41, Step 11
+ > 02:35:24 | Getting predictions from model
+
+  Epoch 41, Step 12
+ > 02:35:25 | Getting predictions from model
+
+  Epoch 41, Step 13
+ > 02:35:25 | Getting predictions from model
+
+  Epoch 41, Step 14
+ > 02:35:26 | Getting predictions from model
+
+  Epoch 41, Step 15
+ > 02:35:27 | Getting predictions from model
+
+  Epoch 41, Step 16
+ > 02:35:28 | Getting predictions from model
+
+  Epoch 41, Step 17
+ > 02:35:29 | Getting predictions from model
+
+  Epoch 41, Step 18
+ > 02:35:30 | Getting predictions from model
+
+  Epoch 41, Step 19
+ > 02:35:31 | Getting predictions from model
+
+  Epoch 41, Step 20
+ > 02:35:32 | Getting predictions from model
+
+  Epoch 41, Step 21
+ > 02:35:33 | Getting predictions from model
+
+  Epoch 41, Step 22
+ > 02:35:34 | Getting predictions from model
+
+  Epoch 41, Step 23
+ > 02:35:35 | Getting predictions from model
+
+  Epoch 41, Step 24
+ > 02:35:36 | Getting predictions from model
+
+  Epoch 41, Step 25
+ > 02:35:37 | Getting predictions from model
+
+  Epoch 41, Step 26
+ > 02:35:38 | Getting predictions from model
+
+  Epoch 41, Step 27
+ > 02:35:39 | Getting predictions from model
+
+  Epoch 41, Step 28
+ > 02:35:39 | Getting predictions from model
+
+  Epoch 41, Step 29
+ > 02:35:40 | Getting predictions from model
+ > 02:35:41 | mean loss = 2.55733967	( CMF : 2.5573 )
+ > 02:35:41 | Starting Visualizations
+ > 02:35:41 |  - Finished
+
+
+  Epoch 42, Step 0
+
+  Epoch 42, Step 0
+ > 02:35:42 | Getting predictions from model
+
+  Epoch 42, Step 1
+ > 02:35:43 | Getting predictions from model
+
+  Epoch 42, Step 2
+ > 02:35:45 | Getting predictions from model
+
+  Epoch 42, Step 3
+ > 02:35:46 | Getting predictions from model
+
+  Epoch 42, Step 4
+ > 02:35:47 | Getting predictions from model
+
+  Epoch 42, Step 5
+ > 02:35:48 | Getting predictions from model
+
+  Epoch 42, Step 6
+ > 02:35:49 | Getting predictions from model
+
+  Epoch 42, Step 7
+ > 02:35:50 | Getting predictions from model
+
+  Epoch 42, Step 8
+ > 02:35:51 | Getting predictions from model
+
+  Epoch 42, Step 9
+ > 02:35:52 | Getting predictions from model
+
+  Epoch 42, Step 10
+ > 02:35:53 | Getting predictions from model
+
+  Epoch 42, Step 11
+ > 02:35:54 | Getting predictions from model
+
+  Epoch 42, Step 12
+ > 02:35:55 | Getting predictions from model
+
+  Epoch 42, Step 13
+ > 02:35:56 | Getting predictions from model
+
+  Epoch 42, Step 14
+ > 02:35:57 | Getting predictions from model
+
+  Epoch 42, Step 15
+ > 02:35:58 | Getting predictions from model
+
+  Epoch 42, Step 16
+ > 02:35:59 | Getting predictions from model
+
+  Epoch 42, Step 17
+ > 02:36:00 | Getting predictions from model
+
+  Epoch 42, Step 18
+ > 02:36:01 | Getting predictions from model
+
+  Epoch 42, Step 19
+ > 02:36:02 | Getting predictions from model
+
+  Epoch 42, Step 20
+ > 02:36:03 | Getting predictions from model
+
+  Epoch 42, Step 21
+ > 02:36:04 | Getting predictions from model
+
+  Epoch 42, Step 22
+ > 02:36:05 | Getting predictions from model
+
+  Epoch 42, Step 23
+ > 02:36:06 | Getting predictions from model
+
+  Epoch 42, Step 24
+ > 02:36:07 | Getting predictions from model
+
+  Epoch 42, Step 25
+ > 02:36:08 | Getting predictions from model
+
+  Epoch 42, Step 26
+ > 02:36:09 | Getting predictions from model
+
+  Epoch 42, Step 27
+ > 02:36:10 | Getting predictions from model
+
+  Epoch 42, Step 28
+ > 02:36:10 | Getting predictions from model
+
+  Epoch 42, Step 29
+ > 02:36:11 | Getting predictions from model
+ > 02:36:12 | mean loss = 2.52158642	( CMF : 2.5216 )
+ > 02:36:12 | Starting Visualizations
+ > 02:36:12 |  - Finished
+
+
+  Epoch 43, Step 0
+
+  Epoch 43, Step 0
+ > 02:36:13 | Getting predictions from model
+
+  Epoch 43, Step 1
+ > 02:36:14 | Getting predictions from model
+
+  Epoch 43, Step 2
+ > 02:36:15 | Getting predictions from model
+
+  Epoch 43, Step 3
+ > 02:36:16 | Getting predictions from model
+
+  Epoch 43, Step 4
+ > 02:36:18 | Getting predictions from model
+
+  Epoch 43, Step 5
+ > 02:36:19 | Getting predictions from model
+
+  Epoch 43, Step 6
+ > 02:36:20 | Getting predictions from model
+
+  Epoch 43, Step 7
+ > 02:36:21 | Getting predictions from model
+
+  Epoch 43, Step 8
+ > 02:36:22 | Getting predictions from model
+
+  Epoch 43, Step 9
+ > 02:36:23 | Getting predictions from model
+
+  Epoch 43, Step 10
+ > 02:36:24 | Getting predictions from model
+
+  Epoch 43, Step 11
+ > 02:36:25 | Getting predictions from model
+
+  Epoch 43, Step 12
+ > 02:36:26 | Getting predictions from model
+
+  Epoch 43, Step 13
+ > 02:36:27 | Getting predictions from model
+
+  Epoch 43, Step 14
+ > 02:36:28 | Getting predictions from model
+
+  Epoch 43, Step 15
+ > 02:36:29 | Getting predictions from model
+
+  Epoch 43, Step 16
+ > 02:36:30 | Getting predictions from model
+
+  Epoch 43, Step 17
+ > 02:36:31 | Getting predictions from model
+
+  Epoch 43, Step 18
+ > 02:36:32 | Getting predictions from model
+
+  Epoch 43, Step 19
+ > 02:36:33 | Getting predictions from model
+
+  Epoch 43, Step 20
+ > 02:36:34 | Getting predictions from model
+
+  Epoch 43, Step 21
+ > 02:36:35 | Getting predictions from model
+
+  Epoch 43, Step 22
+ > 02:36:36 | Getting predictions from model
+
+  Epoch 43, Step 23
+ > 02:36:37 | Getting predictions from model
+
+  Epoch 43, Step 24
+ > 02:36:38 | Getting predictions from model
+
+  Epoch 43, Step 25
+ > 02:36:39 | Getting predictions from model
+
+  Epoch 43, Step 26
+ > 02:36:40 | Getting predictions from model
+
+  Epoch 43, Step 27
+ > 02:36:41 | Getting predictions from model
+
+  Epoch 43, Step 28
+ > 02:36:43 | Getting predictions from model
+
+  Epoch 43, Step 29
+ > 02:36:44 | Getting predictions from model
+ > 02:36:45 | mean loss = 2.53108549	( CMF : 2.5311 )
+ > 02:36:45 | Starting Visualizations
+ > 02:36:45 |  - Finished
+
+
+  Epoch 44, Step 0
+
+  Epoch 44, Step 0
+ > 02:36:46 | Getting predictions from model
+
+  Epoch 44, Step 1
+ > 02:36:47 | Getting predictions from model
+
+  Epoch 44, Step 2
+ > 02:36:48 | Getting predictions from model
+
+  Epoch 44, Step 3
+ > 02:36:49 | Getting predictions from model
+
+  Epoch 44, Step 4
+ > 02:36:50 | Getting predictions from model
+
+  Epoch 44, Step 5
+ > 02:36:51 | Getting predictions from model
+
+  Epoch 44, Step 6
+ > 02:36:52 | Getting predictions from model
+
+  Epoch 44, Step 7
+ > 02:36:53 | Getting predictions from model
+
+  Epoch 44, Step 8
+ > 02:36:54 | Getting predictions from model
+
+  Epoch 44, Step 9
+ > 02:36:55 | Getting predictions from model
+
+  Epoch 44, Step 10
+ > 02:36:56 | Getting predictions from model
+
+  Epoch 44, Step 11
+ > 02:36:57 | Getting predictions from model
+
+  Epoch 44, Step 12
+ > 02:36:58 | Getting predictions from model
+
+  Epoch 44, Step 13
+ > 02:36:59 | Getting predictions from model
+
+  Epoch 44, Step 14
+ > 02:37:00 | Getting predictions from model
+
+  Epoch 44, Step 15
+ > 02:37:01 | Getting predictions from model
+
+  Epoch 44, Step 16
+ > 02:37:02 | Getting predictions from model
+
+  Epoch 44, Step 17
+ > 02:37:03 | Getting predictions from model
+
+  Epoch 44, Step 18
+ > 02:37:04 | Getting predictions from model
+
+  Epoch 44, Step 19
+ > 02:37:05 | Getting predictions from model
+
+  Epoch 44, Step 20
+ > 02:37:06 | Getting predictions from model
+
+  Epoch 44, Step 21
+ > 02:37:07 | Getting predictions from model
+
+  Epoch 44, Step 22
+ > 02:37:08 | Getting predictions from model
+
+  Epoch 44, Step 23
+ > 02:37:08 | Getting predictions from model
+
+  Epoch 44, Step 24
+ > 02:37:09 | Getting predictions from model
+
+  Epoch 44, Step 25
+ > 02:37:10 | Getting predictions from model
+
+  Epoch 44, Step 26
+ > 02:37:11 | Getting predictions from model
+
+  Epoch 44, Step 27
+ > 02:37:12 | Getting predictions from model
+
+  Epoch 44, Step 28
+ > 02:37:13 | Getting predictions from model
+
+  Epoch 44, Step 29
+ > 02:37:14 | Getting predictions from model
+ > 02:37:15 | mean loss = 2.58787298	( CMF : 2.5879 )
+ > 02:37:15 | Starting Visualizations
+ > 02:37:15 |  - Finished
+
+
+  Epoch 45, Step 0
+
+  Epoch 45, Step 0
+ > 02:37:16 | Getting predictions from model
+
+  Epoch 45, Step 1
+ > 02:37:17 | Getting predictions from model
+
+  Epoch 45, Step 2
+ > 02:37:18 | Getting predictions from model
+
+  Epoch 45, Step 3
+ > 02:37:19 | Getting predictions from model
+
+  Epoch 45, Step 4
+ > 02:37:20 | Getting predictions from model
+
+  Epoch 45, Step 5
+ > 02:37:21 | Getting predictions from model
+
+  Epoch 45, Step 6
+ > 02:37:22 | Getting predictions from model
+
+  Epoch 45, Step 7
+ > 02:37:23 | Getting predictions from model
+
+  Epoch 45, Step 8
+ > 02:37:24 | Getting predictions from model
+
+  Epoch 45, Step 9
+ > 02:37:26 | Getting predictions from model
+
+  Epoch 45, Step 10
+ > 02:37:27 | Getting predictions from model
+
+  Epoch 45, Step 11
+ > 02:37:28 | Getting predictions from model
+
+  Epoch 45, Step 12
+ > 02:37:28 | Getting predictions from model
+
+  Epoch 45, Step 13
+ > 02:37:29 | Getting predictions from model
+
+  Epoch 45, Step 14
+ > 02:37:30 | Getting predictions from model
+
+  Epoch 45, Step 15
+ > 02:37:31 | Getting predictions from model
+
+  Epoch 45, Step 16
+ > 02:37:32 | Getting predictions from model
+
+  Epoch 45, Step 17
+ > 02:37:33 | Getting predictions from model
+
+  Epoch 45, Step 18
+ > 02:37:34 | Getting predictions from model
+
+  Epoch 45, Step 19
+ > 02:37:35 | Getting predictions from model
+
+  Epoch 45, Step 20
+ > 02:37:36 | Getting predictions from model
+
+  Epoch 45, Step 21
+ > 02:37:37 | Getting predictions from model
+
+  Epoch 45, Step 22
+ > 02:37:38 | Getting predictions from model
+
+  Epoch 45, Step 23
+ > 02:37:39 | Getting predictions from model
+
+  Epoch 45, Step 24
+ > 02:37:40 | Getting predictions from model
+
+  Epoch 45, Step 25
+ > 02:37:41 | Getting predictions from model
+
+  Epoch 45, Step 26
+ > 02:37:42 | Getting predictions from model
+
+  Epoch 45, Step 27
+ > 02:37:43 | Getting predictions from model
+
+  Epoch 45, Step 28
+ > 02:37:44 | Getting predictions from model
+
+  Epoch 45, Step 29
+ > 02:37:45 | Getting predictions from model
+ > 02:37:46 | mean loss = 2.65775847	( CMF : 2.6578 )
+ > 02:37:46 | Starting Visualizations
+ > 02:38:03 |  - Finished
+
+
+  Epoch 46, Step 0
+
+  Epoch 46, Step 0
+ > 02:38:04 | Getting predictions from model
+
+  Epoch 46, Step 1
+ > 02:38:06 | Getting predictions from model
+
+  Epoch 46, Step 2
+ > 02:38:07 | Getting predictions from model
+
+  Epoch 46, Step 3
+ > 02:38:08 | Getting predictions from model
+
+  Epoch 46, Step 4
+ > 02:38:09 | Getting predictions from model
+
+  Epoch 46, Step 5
+ > 02:38:10 | Getting predictions from model
+
+  Epoch 46, Step 6
+ > 02:38:11 | Getting predictions from model
+
+  Epoch 46, Step 7
+ > 02:38:13 | Getting predictions from model
+
+  Epoch 46, Step 8
+ > 02:38:14 | Getting predictions from model
+
+  Epoch 46, Step 9
+ > 02:38:15 | Getting predictions from model
+
+  Epoch 46, Step 10
+ > 02:38:16 | Getting predictions from model
+
+  Epoch 46, Step 11
+ > 02:38:17 | Getting predictions from model
+
+  Epoch 46, Step 12
+ > 02:38:18 | Getting predictions from model
+
+  Epoch 46, Step 13
+ > 02:38:19 | Getting predictions from model
+
+  Epoch 46, Step 14
+ > 02:38:20 | Getting predictions from model
+
+  Epoch 46, Step 15
+ > 02:38:21 | Getting predictions from model
+
+  Epoch 46, Step 16
+ > 02:38:22 | Getting predictions from model
+
+  Epoch 46, Step 17
+ > 02:38:24 | Getting predictions from model
+
+  Epoch 46, Step 18
+ > 02:38:25 | Getting predictions from model
+
+  Epoch 46, Step 19
+ > 02:38:26 | Getting predictions from model
+
+  Epoch 46, Step 20
+ > 02:38:27 | Getting predictions from model
+
+  Epoch 46, Step 21
+ > 02:38:28 | Getting predictions from model
+
+  Epoch 46, Step 22
+ > 02:38:29 | Getting predictions from model
+
+  Epoch 46, Step 23
+ > 02:38:30 | Getting predictions from model
+
+  Epoch 46, Step 24
+ > 02:38:31 | Getting predictions from model
+
+  Epoch 46, Step 25
+ > 02:38:32 | Getting predictions from model
+
+  Epoch 46, Step 26
+ > 02:38:33 | Getting predictions from model
+
+  Epoch 46, Step 27
+ > 02:38:34 | Getting predictions from model
+
+  Epoch 46, Step 28
+ > 02:38:35 | Getting predictions from model
+
+  Epoch 46, Step 29
+ > 02:38:36 | Getting predictions from model
+ > 02:38:37 | mean loss = 2.63268948	( CMF : 2.6327 )
+ > 02:38:37 | Starting Visualizations
+ > 02:38:37 |  - Finished
+
+
+  Epoch 47, Step 0
+
+  Epoch 47, Step 0
+ > 02:38:39 | Getting predictions from model
+
+  Epoch 47, Step 1
+ > 02:38:40 | Getting predictions from model
+
+  Epoch 47, Step 2
+ > 02:38:42 | Getting predictions from model
+
+  Epoch 47, Step 3
+ > 02:38:43 | Getting predictions from model
+
+  Epoch 47, Step 4
+ > 02:38:44 | Getting predictions from model
+
+  Epoch 47, Step 5
+ > 02:38:46 | Getting predictions from model
+
+  Epoch 47, Step 6
+ > 02:38:47 | Getting predictions from model
+
+  Epoch 47, Step 7
+ > 02:38:48 | Getting predictions from model
+
+  Epoch 47, Step 8
+ > 02:38:49 | Getting predictions from model
+
+  Epoch 47, Step 9
+ > 02:38:51 | Getting predictions from model
+
+  Epoch 47, Step 10
+ > 02:38:52 | Getting predictions from model
+
+  Epoch 47, Step 11
+ > 02:38:53 | Getting predictions from model
+
+  Epoch 47, Step 12
+ > 02:38:54 | Getting predictions from model
+
+  Epoch 47, Step 13
+ > 02:38:55 | Getting predictions from model
+
+  Epoch 47, Step 14
+ > 02:38:56 | Getting predictions from model
+
+  Epoch 47, Step 15
+ > 02:38:57 | Getting predictions from model
+
+  Epoch 47, Step 16
+ > 02:38:58 | Getting predictions from model
+
+  Epoch 47, Step 17
+ > 02:38:59 | Getting predictions from model
+
+  Epoch 47, Step 18
+ > 02:39:00 | Getting predictions from model
+
+  Epoch 47, Step 19
+ > 02:39:01 | Getting predictions from model
+
+  Epoch 47, Step 20
+ > 02:39:02 | Getting predictions from model
+
+  Epoch 47, Step 21
+ > 02:39:03 | Getting predictions from model
+
+  Epoch 47, Step 22
+ > 02:39:04 | Getting predictions from model
+
+  Epoch 47, Step 23
+ > 02:39:05 | Getting predictions from model
+
+  Epoch 47, Step 24
+ > 02:39:05 | Getting predictions from model
+
+  Epoch 47, Step 25
+ > 02:39:06 | Getting predictions from model
+
+  Epoch 47, Step 26
+ > 02:39:07 | Getting predictions from model
+
+  Epoch 47, Step 27
+ > 02:39:08 | Getting predictions from model
+
+  Epoch 47, Step 28
+ > 02:39:09 | Getting predictions from model
+
+  Epoch 47, Step 29
+ > 02:39:11 | Getting predictions from model
+ > 02:39:12 | mean loss = 2.58748221	( CMF : 2.5875 )
+ > 02:39:12 | Starting Visualizations
+ > 02:39:12 |  - Finished
+
+
+  Epoch 48, Step 0
+
+  Epoch 48, Step 0
+ > 02:39:13 | Getting predictions from model
+
+  Epoch 48, Step 1
+ > 02:39:14 | Getting predictions from model
+
+  Epoch 48, Step 2
+ > 02:39:15 | Getting predictions from model
+
+  Epoch 48, Step 3
+ > 02:39:17 | Getting predictions from model
+
+  Epoch 48, Step 4
+ > 02:39:18 | Getting predictions from model
+
+  Epoch 48, Step 5
+ > 02:39:19 | Getting predictions from model
+
+  Epoch 48, Step 6
+ > 02:39:21 | Getting predictions from model
+
+  Epoch 48, Step 7
+ > 02:39:22 | Getting predictions from model
+
+  Epoch 48, Step 8
+ > 02:39:23 | Getting predictions from model
+
+  Epoch 48, Step 9
+ > 02:39:24 | Getting predictions from model
+
+  Epoch 48, Step 10
+ > 02:39:25 | Getting predictions from model
+
+  Epoch 48, Step 11
+ > 02:39:26 | Getting predictions from model
+
+  Epoch 48, Step 12
+ > 02:39:27 | Getting predictions from model
+
+  Epoch 48, Step 13
+ > 02:39:28 | Getting predictions from model
+
+  Epoch 48, Step 14
+ > 02:39:29 | Getting predictions from model
+
+  Epoch 48, Step 15
+ > 02:39:30 | Getting predictions from model
+
+  Epoch 48, Step 16
+ > 02:39:31 | Getting predictions from model
+
+  Epoch 48, Step 17
+ > 02:39:32 | Getting predictions from model
+
+  Epoch 48, Step 18
+ > 02:39:33 | Getting predictions from model
+
+  Epoch 48, Step 19
+ > 02:39:34 | Getting predictions from model
+
+  Epoch 48, Step 20
+ > 02:39:35 | Getting predictions from model
+
+  Epoch 48, Step 21
+ > 02:39:36 | Getting predictions from model
+
+  Epoch 48, Step 22
+ > 02:39:37 | Getting predictions from model
+
+  Epoch 48, Step 23
+ > 02:39:39 | Getting predictions from model
+
+  Epoch 48, Step 24
+ > 02:39:40 | Getting predictions from model
+
+  Epoch 48, Step 25
+ > 02:39:42 | Getting predictions from model
+
+  Epoch 48, Step 26
+ > 02:39:45 | Getting predictions from model
+
+  Epoch 48, Step 27
+ > 02:39:47 | Getting predictions from model
+
+  Epoch 48, Step 28
+ > 02:44:15 | Getting predictions from model
+
+  Epoch 48, Step 29
+ > 02:44:16 | Getting predictions from model
+ > 02:44:17 | mean loss = 2.53101873	( CMF : 2.531 )
+ > 02:44:17 | Starting Visualizations
+ > 02:44:17 |  - Finished
+
+
+  Epoch 49, Step 0
+
+  Epoch 49, Step 0
+ > 02:44:19 | Getting predictions from model
+
+  Epoch 49, Step 1
+ > 02:44:20 | Getting predictions from model
+
+  Epoch 49, Step 2
+ > 02:44:21 | Getting predictions from model
+
+  Epoch 49, Step 3
+ > 02:44:22 | Getting predictions from model
+
+  Epoch 49, Step 4
+ > 02:44:23 | Getting predictions from model
+
+  Epoch 49, Step 5
+ > 02:44:24 | Getting predictions from model
+
+  Epoch 49, Step 6
+ > 02:44:25 | Getting predictions from model
+
+  Epoch 49, Step 7
+ > 02:44:26 | Getting predictions from model
+
+  Epoch 49, Step 8
+ > 02:44:27 | Getting predictions from model
+
+  Epoch 49, Step 9
+ > 02:44:28 | Getting predictions from model
+
+  Epoch 49, Step 10
+ > 02:44:29 | Getting predictions from model
+
+  Epoch 49, Step 11
+ > 02:44:30 | Getting predictions from model
+
+  Epoch 49, Step 12
+ > 02:44:31 | Getting predictions from model
+
+  Epoch 49, Step 13
+ > 02:44:32 | Getting predictions from model
+
+  Epoch 49, Step 14
+ > 02:44:33 | Getting predictions from model
+
+  Epoch 49, Step 15
+ > 02:44:34 | Getting predictions from model
+
+  Epoch 49, Step 16
+ > 02:44:35 | Getting predictions from model
+
+  Epoch 49, Step 17
+ > 02:44:36 | Getting predictions from model
+
+  Epoch 49, Step 18
+ > 02:44:37 | Getting predictions from model
+
+  Epoch 49, Step 19
+ > 02:44:38 | Getting predictions from model
+
+  Epoch 49, Step 20
+ > 02:44:39 | Getting predictions from model
+
+  Epoch 49, Step 21
+ > 02:44:40 | Getting predictions from model
+
+  Epoch 49, Step 22
+ > 02:44:40 | Getting predictions from model
+
+  Epoch 49, Step 23
+ > 02:44:41 | Getting predictions from model
+
+  Epoch 49, Step 24
+ > 02:44:42 | Getting predictions from model
+
+  Epoch 49, Step 25
+ > 02:44:43 | Getting predictions from model
+
+  Epoch 49, Step 26
+ > 02:44:44 | Getting predictions from model
+
+  Epoch 49, Step 27
+ > 02:44:45 | Getting predictions from model
+
+  Epoch 49, Step 28
+ > 02:44:46 | Getting predictions from model
+
+  Epoch 49, Step 29
+ > 02:44:47 | Getting predictions from model
+ > 02:44:48 | mean loss = 2.49222016	( CMF : 2.4922 )
+ > 02:44:48 | Starting Visualizations
+ > 02:44:48 |  - Finished
+
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 02:44:49 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 02:44:50 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 02:44:51 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 02:44:52 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 02:44:53 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 02:44:54 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 02:44:56 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 02:44:57 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 02:44:58 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 02:44:59 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 02:45:00 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 02:45:01 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 02:45:01 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 02:45:02 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 02:45:04 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 02:45:05 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 02:45:06 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 02:45:07 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 02:45:08 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 02:45:09 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 02:45:10 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 02:45:11 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 02:45:12 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 02:45:13 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 02:45:14 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 02:45:15 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 02:45:16 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 02:45:17 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 02:45:18 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 02:45:19 | Getting predictions from model
+ > 02:45:20 | mean loss = 2.56206274	( CMF : 2.5621 )
+ > 02:45:20 | Starting Visualizations
+ > 02:45:37 |  - Finished
+
+ > 20:56:24 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 20:56:25 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 20:56:31 | Getting predictions from model
+ > 20:56:36 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 20:56:37 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 20:56:40 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 20:56:42 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 20:56:44 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 20:56:46 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 20:56:48 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 20:56:50 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 20:56:51 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 20:56:52 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 20:56:53 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 20:56:54 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 20:56:55 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 20:56:57 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 20:56:58 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 20:56:59 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 20:57:00 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 20:57:02 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 20:57:03 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 20:57:04 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 20:57:05 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 20:57:06 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 20:57:08 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 20:57:09 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 20:57:10 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 20:57:11 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 20:57:13 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 20:57:14 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 20:57:15 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 20:57:16 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 20:57:18 | Getting predictions from model
+ > 20:57:19 | mean loss = 2.71995807	( CMF : 2.72 )
+ > 20:57:19 | Starting Visualizations
+ > 20:57:39 |  - Finished
+
+
+  Epoch 51, Step 0
+
+  Epoch 51, Step 0
+ > 20:57:40 | Getting predictions from model
+
+  Epoch 51, Step 1
+ > 20:57:42 | Getting predictions from model
+
+  Epoch 51, Step 2
+ > 20:57:43 | Getting predictions from model
+
+  Epoch 51, Step 3
+ > 20:57:45 | Getting predictions from model
+
+  Epoch 51, Step 4
+ > 20:57:47 | Getting predictions from model
+
+  Epoch 51, Step 5
+ > 20:57:48 | Getting predictions from model
+
+  Epoch 51, Step 6
+ > 20:57:50 | Getting predictions from model
+
+  Epoch 51, Step 7
+ > 20:57:51 | Getting predictions from model
+
+  Epoch 51, Step 8
+ > 20:57:52 | Getting predictions from model
+
+  Epoch 51, Step 9
+ > 20:57:54 | Getting predictions from model
+
+  Epoch 51, Step 10
+ > 20:57:55 | Getting predictions from model
+
+  Epoch 51, Step 11
+ > 20:57:56 | Getting predictions from model
+
+  Epoch 51, Step 12
+ > 20:57:58 | Getting predictions from model
+
+  Epoch 51, Step 13
+ > 20:57:59 | Getting predictions from model
+
+  Epoch 51, Step 14
+ > 20:58:00 | Getting predictions from model
+
+  Epoch 51, Step 15
+ > 20:58:01 | Getting predictions from model
+
+  Epoch 51, Step 16
+ > 20:58:03 | Getting predictions from model
+
+  Epoch 51, Step 17
+ > 20:58:04 | Getting predictions from model
+
+  Epoch 51, Step 18
+ > 20:58:05 | Getting predictions from model
+
+  Epoch 51, Step 19
+ > 20:58:06 | Getting predictions from model
+
+  Epoch 51, Step 20
+ > 20:58:08 | Getting predictions from model
+
+  Epoch 51, Step 21
+ > 20:58:09 | Getting predictions from model
+
+  Epoch 51, Step 22
+ > 20:58:10 | Getting predictions from model
+
+  Epoch 51, Step 23
+ > 20:58:11 | Getting predictions from model
+
+  Epoch 51, Step 24
+ > 20:58:13 | Getting predictions from model
+
+  Epoch 51, Step 25
+ > 20:58:14 | Getting predictions from model
+
+  Epoch 51, Step 26
+ > 20:58:15 | Getting predictions from model
+
+  Epoch 51, Step 27
+ > 20:58:16 | Getting predictions from model
+
+  Epoch 51, Step 28
+ > 20:58:18 | Getting predictions from model
+
+  Epoch 51, Step 29
+ > 20:58:19 | Getting predictions from model
+ > 20:58:20 | mean loss = 2.68400431	( CMF : 2.684 )
+ > 20:58:20 | Starting Visualizations
+ > 20:58:39 |  - Finished
+
+ > 09:54:09 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 09:54:10 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 09:54:11 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 09:54:12 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 09:54:13 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 09:54:14 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 09:54:15 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 09:54:15 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 09:54:16 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 09:54:17 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 09:54:18 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 09:54:19 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 09:54:20 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 09:54:21 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 09:54:21 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 09:54:22 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 09:54:23 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 09:54:24 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 09:54:25 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 09:54:26 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 09:54:26 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 09:54:27 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 09:54:28 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 09:54:29 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 09:54:30 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 09:54:31 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 09:54:31 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 09:54:32 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 09:54:33 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 09:54:34 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 09:54:35 | Getting predictions from model
+ > 09:54:36 | mean loss = 2.70965528	( CMF : 2.7097 )
+ > 09:54:36 | Starting Visualizations
+ > 09:54:52 |  - Finished
+
+ > 09:39:05 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 09:39:06 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 09:39:07 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 09:39:08 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 09:39:09 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 09:39:10 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 09:39:11 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 09:39:12 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 09:39:13 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 09:39:14 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 09:39:15 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 09:39:15 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 09:39:16 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 09:39:17 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 09:39:18 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 09:39:19 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 09:39:19 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 09:39:20 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 09:39:21 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 09:39:22 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 09:39:23 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 09:39:24 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 09:39:25 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 09:39:25 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 09:39:26 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 09:39:27 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 09:39:28 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 09:39:29 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 09:39:30 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 09:39:30 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 09:39:31 | Getting predictions from model
+ > 09:39:32 | mean loss = 2.74011612	( CMF : 2.7401 )
+ > 09:39:32 | Starting Visualizations
+ > 09:39:49 |  - Finished
+
+ > 09:47:40 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 09:47:40 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 09:47:41 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 09:47:42 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 09:47:44 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 09:47:45 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 09:47:46 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 09:47:47 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 09:47:48 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 09:47:49 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 09:47:50 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 09:47:52 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 09:47:53 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 09:47:54 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 09:47:55 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 09:47:56 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 09:47:57 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 09:47:58 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 09:47:59 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 09:48:00 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 09:48:01 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 09:48:02 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 09:48:03 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 09:48:04 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 09:48:05 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 09:48:06 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 09:48:07 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 09:48:08 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 09:48:09 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 09:48:10 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 09:48:11 | Getting predictions from model
+ > 09:48:13 | mean loss = 2.73096585	( CMF : 2.731 )
+ > 09:48:13 | Starting Visualizations
+ > 09:48:29 |  - Finished
+
+ > 09:51:07 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 09:51:08 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 09:51:09 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 09:51:10 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 09:51:10 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 09:51:11 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 09:51:12 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 09:51:13 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 09:51:13 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 09:51:14 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 09:51:15 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 09:51:16 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 09:51:16 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 09:51:17 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 09:51:18 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 09:51:19 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 09:51:19 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 09:51:20 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 09:51:21 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 09:51:21 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 09:51:22 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 09:51:23 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 09:51:23 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 09:51:24 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 09:51:25 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 09:51:26 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 09:51:26 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 09:51:27 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 09:51:28 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 09:51:28 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 09:51:29 | Getting predictions from model
+ > 09:51:30 | mean loss = 2.71398544	( CMF : 2.714 )
+ > 09:51:30 | Starting Visualizations
+ > 09:51:47 |  - Finished
+
+ > 10:04:32 | Begin Training Model 'tae_1_final_model'
+
+  Epoch 50, Step 0
+
+  Epoch 50, Step 0
+ > 10:04:32 | Getting predictions from model
+
+  Epoch 50, Step 1
+ > 10:04:34 | Getting predictions from model
+
+  Epoch 50, Step 2
+ > 10:04:35 | Getting predictions from model
+
+  Epoch 50, Step 3
+ > 10:04:36 | Getting predictions from model
+
+  Epoch 50, Step 4
+ > 10:04:36 | Getting predictions from model
+
+  Epoch 50, Step 5
+ > 10:04:37 | Getting predictions from model
+
+  Epoch 50, Step 6
+ > 10:04:38 | Getting predictions from model
+
+  Epoch 50, Step 7
+ > 10:04:39 | Getting predictions from model
+
+  Epoch 50, Step 8
+ > 10:04:40 | Getting predictions from model
+
+  Epoch 50, Step 9
+ > 10:04:41 | Getting predictions from model
+
+  Epoch 50, Step 10
+ > 10:04:42 | Getting predictions from model
+
+  Epoch 50, Step 11
+ > 10:04:42 | Getting predictions from model
+
+  Epoch 50, Step 12
+ > 10:04:43 | Getting predictions from model
+
+  Epoch 50, Step 13
+ > 10:04:44 | Getting predictions from model
+
+  Epoch 50, Step 14
+ > 10:04:45 | Getting predictions from model
+
+  Epoch 50, Step 15
+ > 10:04:46 | Getting predictions from model
+
+  Epoch 50, Step 16
+ > 10:04:47 | Getting predictions from model
+
+  Epoch 50, Step 17
+ > 10:04:48 | Getting predictions from model
+
+  Epoch 50, Step 18
+ > 10:04:48 | Getting predictions from model
+
+  Epoch 50, Step 19
+ > 10:04:49 | Getting predictions from model
+
+  Epoch 50, Step 20
+ > 10:04:50 | Getting predictions from model
+
+  Epoch 50, Step 21
+ > 10:04:51 | Getting predictions from model
+
+  Epoch 50, Step 22
+ > 10:04:52 | Getting predictions from model
+
+  Epoch 50, Step 23
+ > 10:04:53 | Getting predictions from model
+
+  Epoch 50, Step 24
+ > 10:04:53 | Getting predictions from model
+
+  Epoch 50, Step 25
+ > 10:04:54 | Getting predictions from model
+
+  Epoch 50, Step 26
+ > 10:04:55 | Getting predictions from model
+
+  Epoch 50, Step 27
+ > 10:04:56 | Getting predictions from model
+
+  Epoch 50, Step 28
+ > 10:04:57 | Getting predictions from model
+
+  Epoch 50, Step 29
+ > 10:04:57 | Getting predictions from model
+ > 10:04:58 | mean loss = 2.72723246	( CMF : 2.7272 )
+ > 10:04:58 | Starting Visualizations
+ > 10:05:15 |  - Finished
+

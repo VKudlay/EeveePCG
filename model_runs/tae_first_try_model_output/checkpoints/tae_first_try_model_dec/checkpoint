@@ -1,0 +1,8 @@
+model_checkpoint_path: "ckpt-33"
+all_model_checkpoint_paths: "ckpt-31"
+all_model_checkpoint_paths: "ckpt-32"
+all_model_checkpoint_paths: "ckpt-33"
+all_model_checkpoint_timestamps: 1628136525.871255
+all_model_checkpoint_timestamps: 1628136528.768671
+all_model_checkpoint_timestamps: 1628136531.443915
+last_preserved_timestamp: 1628106171.895154

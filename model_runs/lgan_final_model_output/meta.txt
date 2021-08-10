@@ -1,0 +1,4 @@
+2
+lgan_final_model_gen
+lgan_final_model_dis
+400

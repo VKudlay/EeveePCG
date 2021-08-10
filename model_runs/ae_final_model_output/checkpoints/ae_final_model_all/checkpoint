@@ -1,0 +1,8 @@
+model_checkpoint_path: "ckpt-401"
+all_model_checkpoint_paths: "ckpt-399"
+all_model_checkpoint_paths: "ckpt-400"
+all_model_checkpoint_paths: "ckpt-401"
+all_model_checkpoint_timestamps: 1627886222.167968
+all_model_checkpoint_timestamps: 1627886274.719852
+all_model_checkpoint_timestamps: 1627886332.024229
+last_preserved_timestamp: 1627866512.0659468
