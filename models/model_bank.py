@@ -272,3 +272,56 @@ class TAE2_DefaultModel:
         mimic = tf.keras.layers.Reshape((self.n_samp, 3), name="decode_mimic_reshape")(mimic)
 
         return (trans, mimic)
+
+
+class TAE3_DefaultModel:
+
+    def __init__(self, n_botl, n_samp, n_cats):
+        self.n_botl = n_botl
+        self.n_samp = n_samp
+        self.n_cats = n_cats
+
+    def encoder_model(self, name='enc_model'):
+        """Returns the encoder model with `encoder_layers` layers"""
+        inps1 = tf.keras.layers.Input(shape=(self.n_samp, 3))
+        inps2 = tf.keras.layers.Input(shape=(self.n_cats))
+        inps = [inps1, inps2]
+        return tf.keras.Model(inps, self.encoder_layers(inps), name=name)
+    
+    def decoder_model(self, name='dec_model'):
+        """Returns the decoder model with `decoder_layers` layers"""
+        inps = tf.keras.layers.Input(shape=(self.n_samp + self.n_cats))
+        return tf.keras.Model(inps, self.decoder_layers(inps), name=f'{name}_dual')
+
+    def encoder_layers(self, inps):
+        """Default layer specification for default autoencoder encoder
+        
+        Description: 1-stride 1-kernel size convolutional layers with {64, 128, 128, 256, 128} 
+        filters, each followed by a max pooling and batch normalization layer.
+        Finally, a feature-wise max layer for final latent bottleneck representation. 
+        """
+        def ConvSet(f, name, k=1, s=1, a='relu'):
+            def tmp_fn(x):
+                xt = tf.keras.layers.Conv1D(filters=f, kernel_size=k, strides=s, activation=a, name=f'enc_conv_{name}')(x)
+                xt = tf.keras.layers.MaxPooling1D(name=f'enc_maxp_{name}')(xt)
+                return tf.keras.layers.BatchNormalization(name=f'enc_bn_{name}')(xt)
+            return tmp_fn
+        pc, cat = inps
+        x = ConvSet(self.n_samp, name=1)(pc)
+        # x = ConvSet(128, name=2)(x)
+        # x = ConvSet(128, name=3)(x)
+        # x = ConvSet(256, name=4)(x)
+        # x = ConvSet(128, name=5)(x)
+        x = tf.math.reduce_max(x, axis=1)
+        return tf.concat([x, cat], axis=1)
+
+    def decoder_layers(self, inps):
+        """Default layer specification for default autoencoder decoder"""
+        # feed to a Dense network with units computed from the conv_shape dimensions
+        x = tf.keras.layers.Dense(self.n_samp + self.n_cats, activation = 'relu', name="decode_dense1")(inps)        
+        trans = tf.keras.layers.Dense(self.n_samp * 3, activation = 'sigmoid', name="decode_trans_dense")(x)
+        mimic = tf.keras.layers.Dense(self.n_samp * 3, activation = 'sigmoid', name="decode_mimic_dense")(x)
+        trans = tf.keras.layers.Reshape((self.n_samp, 3), name="decode_trans_reshape")(trans)
+        mimic = tf.keras.layers.Reshape((self.n_samp, 3), name="decode_mimic_reshape")(mimic)
+
+        return (trans, mimic)
