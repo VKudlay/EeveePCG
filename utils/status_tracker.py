@@ -112,6 +112,8 @@ class StatusTracker:
                 return curr_epoch
         except Exception as e: 
             print(f"Could not load '{self.model_name}'-associated checkpoints: \n\t{e}")
+            if input(' > Make new [y/n]:')[0].lower() == 'n': 
+                raise e
             return 0
 
 
